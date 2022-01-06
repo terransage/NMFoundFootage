@@ -1,0 +1,286 @@
+Exporter version: 2.93.4, Blender version: 2.93.5
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Ken\Documents\My Web Sites\Hidden\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  CaveComplex
+		processing begun of material:  caveComplexMultiBake2
+		processing begun of material:  Gold
+		processing begun of material:  Gold.001
+			processing texture caveComplexMultiBake2Norm
+				texture type:  bumpTexture, mapped using: "Joined2"
+			processing texture CaveComplexShadowBake
+				texture type:  diffuseTexture, mapped using: "Joined2"
+		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#0
+		num positions      :  15870
+		num normals        :  15870
+		num tangents       :  0
+		num uvs            :  31740
+		num uvs2           :  31740
+		num colors         :  0
+		num triangles      :  8172
+		WARNING: # of 0 area faces found:  4
+	processing begun of mesh:  Cube.001
+		processing begun of material:  CaveComplexRamp
+			processing texture CaveComplexShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2710
+		num normals        :  2710
+		num tangents       :  0
+		num uvs            :  5420
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1115
+	processing begun of mesh:  CaveComplexPedestal
+		processing begun of material:  floorMat
+		processing begun of material:  CaveComplexRamp
+		processing begun of material:  Gold
+			processing texture OracleScreen
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  CaveComplexRamp
+		registered as also a user of material:  Gold
+		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#1
+		num positions      :  10839
+		num normals        :  10839
+		num tangents       :  0
+		num uvs            :  21678
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  5048
+	processing begun of mesh:  Cube.000
+		processing begun of material:  RockMat
+			processing texture CaveSkybox1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture CaveSkybox1Norm
+				texture type:  bumpTexture, mapped using: "UVMap"
+		num positions      :  10620
+		num normals        :  10620
+		num tangents       :  0
+		num uvs            :  21240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  5081
+	processing begun of mesh:  Podium
+		processing begun of material:  caveComplexPodiumLight
+			processing texture CaveComplexShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  17562
+		num normals        :  17562
+		num tangents       :  0
+		num uvs            :  35124
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7320
+	processing begun of mesh:  MainRoom
+		processing begun of material:  BeamMetal2
+			processing texture Portal3Mud
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  908
+		num normals        :  908
+		num tangents       :  0
+		num uvs            :  1816
+		num uvs2           :  1816
+		num colors         :  0
+		num triangles      :  540
+	processing begun of mesh:  MainRoom.001
+		processing begun of material:  Material
+			processing texture STPRoomsMainRoomLayout_d_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture STPRoomMainRoomShadow5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  858
+		num normals        :  858
+		num tangents       :  0
+		num uvs            :  1716
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  386
+	processing begun of mesh:  FloorMap
+		processing begun of material:  floorMat
+		registered as also a user of material:  floorMat
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  MainRoom.003
+		processing begun of material:  Material_room.001
+			processing texture STPRoomsCeilingShadow
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  169
+		num normals        :  169
+		num tangents       :  0
+		num uvs            :  338
+		num uvs2           :  338
+		num colors         :  0
+		num triangles      :  92
+	processing begun of mesh:  MainRoom.004
+		processing begun of material:  Material.001
+			processing texture STPRoomsFloorShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  SmallRoom1
+		processing begun of material:  smallRoomMat
+			processing texture STPRoomsSmallRoomNormal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture STPRoomsSmallRoomShadow
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  774
+		num normals        :  774
+		num tangents       :  0
+		num uvs            :  1548
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  348
+	processing begun of mesh:  SmallRoomCeiling1
+		processing begun of material:  smallRoomCeilingMat
+			processing texture STPRoomCeilingShadow
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  118
+		num normals        :  118
+		num tangents       :  0
+		num uvs            :  236
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  Cylinder
+		processing begun of material:  cylinderMat
+			processing texture TexturesCom_TilesBlue_seamless_S
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  5697
+		num normals        :  5697
+		num tangents       :  0
+		num uvs            :  11394
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2224
+	processing begun of mesh:  SmallRoom1.001
+		processing begun of material:  smallRoomMat
+		registered as also a user of material:  smallRoomMat
+		num positions      :  774
+		num normals        :  774
+		num tangents       :  0
+		num uvs            :  1548
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  348
+	processing begun of mesh:  SmallRoomCeiling1.001
+		processing begun of material:  smallRoomCeilingMat
+		registered as also a user of material:  smallRoomCeilingMat
+		num positions      :  118
+		num normals        :  118
+		num tangents       :  0
+		num uvs            :  236
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  Cylinder.001
+		processing begun of material:  cylinderMat
+		registered as also a user of material:  cylinderMat
+		num positions      :  5661
+		num normals        :  5661
+		num tangents       :  0
+		num uvs            :  11322
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2224
+	processing begun of mesh:  EncloseShortWall
+		processing begun of material:  EnclosureMat
+			processing texture EncloseShortWallLayoutNormal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture EnclosureShadow8
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  16167
+		num normals        :  16167
+		num tangents       :  0
+		num uvs            :  32334
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7184
+		WARNING: # of 0 area faces found:  32
+	processing begun of mesh:  EncloseShortWall.001
+		processing begun of material:  EnclosureMat
+		registered as also a user of material:  EnclosureMat
+		num positions      :  16293
+		num normals        :  16293
+		num tangents       :  0
+		num uvs            :  32586
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7184
+		WARNING: # of 0 area faces found:  32
+	processing begun of mesh:  EncloseShortWall.002
+		processing begun of material:  EnclosureMat
+		registered as also a user of material:  EnclosureMat
+		num positions      :  16246
+		num normals        :  16246
+		num tangents       :  0
+		num uvs            :  32492
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7184
+		WARNING: # of 0 area faces found:  32
+	processing begun of mesh:  EncloseShortWall.003
+		processing begun of material:  EnclosureMat
+		registered as also a user of material:  EnclosureMat
+		num positions      :  16238
+		num normals        :  16238
+		num tangents       :  0
+		num uvs            :  32476
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7184
+		WARNING: # of 0 area faces found:  32
+	processing begun of light (POINT):  Point
+	processing begun of shadows for light:  Point
+	processing begun of light (POINT):  Point.002
+	processing begun of shadows for light:  Point.002
+	processing begun of light (POINT):  Point.003
+	processing begun of shadows for light:  Point.003
+	processing begun of light (POINT):  Point.004
+	processing begun of shadows for light:  Point.004
+	processing begun of light (POINT):  Point.001
+	processing begun of shadows for light:  Point.001
+	processing begun of light (POINT):  Point.005
+	processing begun of shadows for light:  Point.005
+========= Writing of JSON file started =========
+	writing mesh:  CaveComplex
+	writing mesh:  Cube.001
+	writing mesh:  CaveComplexPedestal
+	writing mesh:  Cube.000
+	writing mesh:  Podium
+	writing mesh:  MainRoom
+	writing mesh:  MainRoom.001
+	writing mesh:  FloorMap
+	writing mesh:  MainRoom.003
+	writing mesh:  MainRoom.004
+	writing mesh:  SmallRoom1
+	writing mesh:  SmallRoomCeiling1
+	writing mesh:  Cylinder
+	writing mesh:  SmallRoom1.001
+	writing mesh:  SmallRoomCeiling1.001
+	writing mesh:  Cylinder.001
+	writing mesh:  EncloseShortWall
+	writing mesh:  EncloseShortWall.001
+	writing mesh:  EncloseShortWall.002
+	writing mesh:  EncloseShortWall.003
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 10.7734 secs
