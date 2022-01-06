@@ -1,0 +1,37 @@
+Exporter version: 6.3.1, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Ken\Documents\My Web Sites\Hidden\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  TowerRamp
+		processing begun of material:  TowerRampMat
+		processing begun of material:  floorMat
+			processing texture CaveComplexShadowBake
+				WARNING: Exception during copy:
+					'C:\\Users\\Ken\\Documents\\My Web Sites\\Hidden\\CaveComplexShadowBake.png' and 'C:\\Users\\Ken\\Documents\\My Web Sites\\Hidden\\CaveComplexShadowBake.png' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture OracleScreen
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  STPRooms2020TowerRampExtended.Multimaterial#0
+		num positions      :  10582
+		num normals        :  10582
+		num tangents       :  0
+		num uvs            :  21164
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12978
+		WARNING: # of 0 area faces found:  156
+========= Writing of JSON file started =========
+	writing mesh:  TowerRamp
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.1339 secs
