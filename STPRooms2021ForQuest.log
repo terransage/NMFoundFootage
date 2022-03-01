@@ -11,7 +11,6 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		Keep Z-up r-handed  :  no
 		Texture directory   :  C:\Users\Ken\Documents\My Web Sites\Hidden\
 	Python World class constructor completed
-	WARNING: No active camera has been assigned, or is not in a currently enabled collection
 	processing begun of mesh:  CaveComplex
 		processing begun of material:  caveComplexMultiBake2
 		processing begun of material:  Gold
@@ -21,13 +20,13 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 			processing texture CaveComplexShadowBake
 				texture type:  diffuseTexture, mapped using: "Joined2"
 		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#0
-		num positions      :  15870
-		num normals        :  15870
+		num positions      :  16961
+		num normals        :  16961
 		num tangents       :  0
-		num uvs            :  31740
-		num uvs2           :  31740
+		num uvs            :  33922
+		num uvs2           :  33922
 		num colors         :  0
-		num triangles      :  8172
+		num triangles      :  8676
 		WARNING: # of 0 area faces found:  4
 	processing begun of mesh:  Cube.001
 		processing begun of material:  CaveComplexRamp
@@ -49,26 +48,27 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		registered as also a user of material:  CaveComplexRamp
 		registered as also a user of material:  Gold
 		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#1
-		num positions      :  10839
-		num normals        :  10839
+		num positions      :  13717
+		num normals        :  13717
 		num tangents       :  0
-		num uvs            :  21678
+		num uvs            :  27434
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  5048
+		num triangles      :  6359
+		WARNING: # of 0 area faces found:  94
 	processing begun of mesh:  Cube.000
 		processing begun of material:  RockMat
-			processing texture CaveSkybox1
+			processing texture Portal3Mud
 				texture type:  diffuseTexture, mapped using: "UVMap"
 			processing texture CaveSkybox1Norm
 				texture type:  bumpTexture, mapped using: "UVMap"
-		num positions      :  10620
-		num normals        :  10620
+		num positions      :  10488
+		num normals        :  10488
 		num tangents       :  0
-		num uvs            :  21240
+		num uvs            :  20976
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  5081
+		num triangles      :  4737
 	processing begun of mesh:  Podium
 		processing begun of material:  caveComplexPodiumLight
 			processing texture CaveComplexShadowBake
@@ -80,15 +80,51 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  7320
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  greenscreen
+		processing begun of material:  greenScreen
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube
+		processing begun of material:  CaveComplexRamp
+		processing begun of material:  Gold
+		registered as also a user of material:  CaveComplexRamp
+		registered as also a user of material:  Gold
+		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#2
+		num positions      :  385
+		num normals        :  385
+		num tangents       :  0
+		num uvs            :  770
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  160
+	processing begun of mesh:  Cube.002
+		processing begun of material:  CaveComplexRamp
+		processing begun of material:  Gold
+		registered as also a user of material:  CaveComplexRamp
+		registered as also a user of material:  Gold
+		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#3
+		num positions      :  464
+		num normals        :  464
+		num tangents       :  0
+		num uvs            :  928
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  188
 	processing begun of mesh:  MainRoom
 		processing begun of material:  BeamMetal2
 			processing texture Portal3Mud
 				texture type:  diffuseTexture, mapped using: "UVMap"
-		num positions      :  908
-		num normals        :  908
+		num positions      :  1280
+		num normals        :  1280
 		num tangents       :  0
-		num uvs            :  1816
-		num uvs2           :  1816
+		num uvs            :  2560
+		num uvs2           :  2560
 		num colors         :  0
 		num triangles      :  540
 	processing begun of mesh:  MainRoom.001
@@ -266,6 +302,9 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  CaveComplexPedestal
 	writing mesh:  Cube.000
 	writing mesh:  Podium
+	writing mesh:  greenscreen
+	writing mesh:  Cube
+	writing mesh:  Cube.002
 	writing mesh:  MainRoom
 	writing mesh:  MainRoom.001
 	writing mesh:  FloorMap
@@ -283,4 +322,4 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  EncloseShortWall.003
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 10.7734 secs
+elapsed time:  0 min, 11.7253 secs
