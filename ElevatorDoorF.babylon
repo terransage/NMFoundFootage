@@ -2,7 +2,7 @@
 "autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"gravity":[0,-9.81,0],
 "materials":[{"name":"CaveComplexRamp","id":"CaveComplexRamp","customType":"BABYLON.PBRMaterial","emissive":[0,0,0],"reflectivity":[0.5,0.5,0.5],"roughness":0.4,"alpha":1,"transparencyMode":0,"alphaCutOff":0.4,"metallic":0, 
 "albedoTexture":{"name":"CaveComplexShadowBake.png","level":1,"hasAlpha":true,"coordinatesMode":0,"uOffset":0,"vOffset":0,"uScale":1,"vScale":1,"uAng":0,"vAng":0,"wAng":0,"wrapU":1,"wrapV":1,"coordinatesIndex":0},"useAlphaFromAlbedoTexture":true}],
-"meshes":[{"name":"Cube","id":"Cube","materialId":"CaveComplexRamp","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"isEnabled":true,"pickable":false
+"meshes":[{"name":"ElevatorDoorF","id":"ElevatorDoorF","materialId":"CaveComplexRamp","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,0.0636,15.7303],"isVisible":true,"isEnabled":true,"pickable":false
 ,"positions":[-5.62,5.6,0.356,5.62,5.6,-0.356,5.62,5.6,0.356,5.62,5.6,-0.356,-5.62,-5.6,-0.356,5.62,-5.6,-0.356,-5.62,5.6,-0.356,-5.62,-5.6,0.356,-5.62,-5.6,-0.356,5.62,-5.6,0.356,-5.62,-5.6,-0.356,-5.62,-5.6,0.356,5.62,5.6,0.356,5.62,-5.6,-0.356,5.62,-5.6,0.356,-5.62,5.6,0.356,5.62,-5.6,0.356
 ,-5.62,-5.6,0.356,-5.62,5.6,-0.356,5.62,5.6,-0.356,-5.62,5.6,-0.356,-5.62,5.6,0.356,5.62,-5.6,-0.356,-5.62,-5.6,-0.356,5.62,5.6,0.356,5.62,5.6,-0.356,5.62,-5.6,-0.356,-5.62,5.6,0.356,5.62,5.6,0.356,5.62,-5.6,0.356]
 ,"normals":[0,1,0,0,1,0,0,1,0,0,0,-1,0,0,-1,0,0,-1,-1,0,0,-1,0,0,-1,0,0,0,-1,0,0,-1,0,0,-1,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,1

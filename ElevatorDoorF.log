@@ -11,7 +11,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		Keep Z-up r-handed  :  no
 		Texture directory   :  C:\Users\Ken\Documents\My Web Sites\Hidden\
 	Python World class constructor completed
-	processing begun of mesh:  Cube
+	processing begun of mesh:  ElevatorDoorF
 		processing begun of material:  CaveComplexRamp
 			processing texture CaveComplexShadowBake
 				texture type:  diffuseTexture, mapped using: "UVMap"
@@ -25,7 +25,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	processing begun of camera (UniversalCamera):  Camera
 	processing begun of light (POINT):  Light
 ========= Writing of JSON file started =========
-	writing mesh:  Cube
+	writing mesh:  ElevatorDoorF
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.2706 secs
+elapsed time:  0 min, 0.0312 secs
