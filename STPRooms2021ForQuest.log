@@ -10,112 +10,8 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		Mat Weight Precision:  2
 		Keep Z-up r-handed  :  no
 		Texture directory   :  C:\Users\Ken\Documents\My Web Sites\Hidden\
-	Python World class constructor completed
-	processing begun of mesh:  CaveComplex
-		processing begun of material:  caveComplexMultiBake2
-		processing begun of material:  Gold
-		processing begun of material:  Gold.001
-			processing texture caveComplexMultiBake2Norm
-				texture type:  bumpTexture, mapped using: "Joined2"
-			processing texture CaveComplexShadowBake
-				texture type:  diffuseTexture, mapped using: "Joined2"
-		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#0
-		num positions      :  16961
-		num normals        :  16961
-		num tangents       :  0
-		num uvs            :  33922
-		num uvs2           :  33922
-		num colors         :  0
-		num triangles      :  8676
-		WARNING: # of 0 area faces found:  4
-	processing begun of mesh:  Cube.001
-		processing begun of material:  CaveComplexRamp
-			processing texture CaveComplexShadowBake
-				texture type:  diffuseTexture, mapped using: "UVMap"
-		num positions      :  2710
-		num normals        :  2710
-		num tangents       :  0
-		num uvs            :  5420
-		num uvs2           :  0
-		num colors         :  0
-		num triangles      :  1115
-	processing begun of mesh:  CaveComplexPedestal
-		processing begun of material:  floorMat
-		processing begun of material:  CaveComplexRamp
-		processing begun of material:  Gold
-			processing texture OracleScreen
-				texture type:  diffuseTexture, mapped using: "UVMap"
-		registered as also a user of material:  CaveComplexRamp
-		registered as also a user of material:  Gold
-		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#1
-		num positions      :  13717
-		num normals        :  13717
-		num tangents       :  0
-		num uvs            :  27434
-		num uvs2           :  0
-		num colors         :  0
-		num triangles      :  6359
-		WARNING: # of 0 area faces found:  94
-	processing begun of mesh:  Cube.000
-		processing begun of material:  RockMat
 			processing texture Portal3Mud
-				texture type:  diffuseTexture, mapped using: "UVMap"
-			processing texture CaveSkybox1Norm
-				texture type:  bumpTexture, mapped using: "UVMap"
-		num positions      :  10488
-		num normals        :  10488
-		num tangents       :  0
-		num uvs            :  20976
-		num uvs2           :  0
-		num colors         :  0
-		num triangles      :  4737
-	processing begun of mesh:  Podium
-		processing begun of material:  caveComplexPodiumLight
-			processing texture CaveComplexShadowBake
-				texture type:  diffuseTexture, mapped using: "UVMap"
-		num positions      :  17562
-		num normals        :  17562
-		num tangents       :  0
-		num uvs            :  35124
-		num uvs2           :  0
-		num colors         :  0
-		num triangles      :  7320
-	processing begun of camera (UniversalCamera):  Camera
-	processing begun of mesh:  greenscreen
-		processing begun of material:  greenScreen
-		num positions      :  29
-		num normals        :  29
-		num tangents       :  0
-		num uvs            :  58
-		num uvs2           :  0
-		num colors         :  0
-		num triangles      :  12
-	processing begun of mesh:  Cube
-		processing begun of material:  CaveComplexRamp
-		processing begun of material:  Gold
-		registered as also a user of material:  CaveComplexRamp
-		registered as also a user of material:  Gold
-		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#2
-		num positions      :  385
-		num normals        :  385
-		num tangents       :  0
-		num uvs            :  770
-		num uvs2           :  0
-		num colors         :  0
-		num triangles      :  160
-	processing begun of mesh:  Cube.002
-		processing begun of material:  CaveComplexRamp
-		processing begun of material:  Gold
-		registered as also a user of material:  CaveComplexRamp
-		registered as also a user of material:  Gold
-		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#3
-		num positions      :  464
-		num normals        :  464
-		num tangents       :  0
-		num uvs            :  928
-		num uvs2           :  0
-		num colors         :  0
-		num triangles      :  188
+	Python World class constructor completed
 	processing begun of mesh:  MainRoom
 		processing begun of material:  BeamMetal2
 			processing texture Portal3Mud
@@ -140,16 +36,6 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  386
-	processing begun of mesh:  FloorMap
-		processing begun of material:  floorMat
-		registered as also a user of material:  floorMat
-		num positions      :  4
-		num normals        :  4
-		num tangents       :  0
-		num uvs            :  8
-		num uvs2           :  0
-		num colors         :  0
-		num triangles      :  2
 	processing begun of mesh:  MainRoom.003
 		processing begun of material:  Material_room.001
 			processing texture STPRoomsCeilingShadow
@@ -284,30 +170,166 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num colors         :  0
 		num triangles      :  7184
 		WARNING: # of 0 area faces found:  32
-	processing begun of light (POINT):  Point
-	processing begun of shadows for light:  Point
-	processing begun of light (POINT):  Point.002
-	processing begun of shadows for light:  Point.002
+	processing begun of camera (UniversalCamera):  Camera
+		animation processing begun
+			processing action CameraAction:  in[1 - 75], out[0 - 75]
+	processing begun of mesh:  CaveComplex
+		processing begun of material:  PedestalBake2Mat
+		processing begun of material:  BlueTrim
+			processing texture PedestalBake2
+				texture type:  diffuseTexture, mapped using: "Joined2"
+			processing texture CaveComplexBlueTrim
+				texture type:  diffuseTexture, mapped using: "Joined2"
+			processing texture CaveComplexBlueTrim
+				texture type:  emissiveTexture, mapped using: "Joined2"
+		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#0
+		num positions      :  26726
+		num normals        :  26726
+		num tangents       :  0
+		num uvs            :  53452
+		num uvs2           :  53452
+		num colors         :  0
+		num triangles      :  12599
+		WARNING: # of 0 area faces found:  94
+	processing begun of mesh:  ElevatorDoor
+		processing begun of material:  EDMat
+			processing texture CaveComplexShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  318
+		num normals        :  318
+		num tangents       :  0
+		num uvs            :  636
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  160
+	processing begun of mesh:  ElevatorDoorBack
+		processing begun of material:  caveComplexMultiBake4
+			processing texture CaveComplexShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMapEDB"
+		num positions      :  665
+		num normals        :  665
+		num tangents       :  0
+		num uvs            :  1330
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  302
+	processing begun of mesh:  ElevatorShaft
+		processing begun of material:  caveComplexMultiBake3
+			processing texture CaveComplexShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMapShaft"
+		num positions      :  16860
+		num normals        :  16860
+		num tangents       :  0
+		num uvs            :  33720
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  14386
+	processing begun of mesh:  ElevatorShaftDoor
+		processing begun of material:  caveComplexMultiBake5
+			processing texture CaveComplexShadowBake
+				texture type:  diffuseTexture, mapped using: "UWEDS"
+		num positions      :  366
+		num normals        :  366
+		num tangents       :  0
+		num uvs            :  732
+		num uvs2           :  732
+		num colors         :  0
+		num triangles      :  180
+	processing begun of mesh:  PedestalFence
+		processing begun of material:  PedestalBake2Mat
+		registered as also a user of material:  PedestalBake2Mat
+		num positions      :  16374
+		num normals        :  16374
+		num tangents       :  0
+		num uvs            :  32748
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6706
+	processing begun of mesh:  Podium
+		processing begun of material:  caveComplexPodiumLight
+			processing texture CaveComplexShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  17562
+		num normals        :  17562
+		num tangents       :  0
+		num uvs            :  35124
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7320
+	processing begun of mesh:  CaveComplex2
+		processing begun of material:  caveComplexMultiBake2
+			processing texture caveComplexMultiBake2Norm
+				texture type:  bumpTexture, mapped using: "Joined2"
+			processing texture CaveComplexShadowBake
+				texture type:  diffuseTexture, mapped using: "Joined2"
+		num positions      :  16958
+		num normals        :  16958
+		num tangents       :  0
+		num uvs            :  33916
+		num uvs2           :  33916
+		num colors         :  0
+		num triangles      :  8676
+		WARNING: # of 0 area faces found:  4
+	processing begun of mesh:  ElevatorHall
+		animation processing begun
+			processing action ElevatorHallAction:  in[49 - 49], out[0 - 49]
+		processing begun of material:  PedestalBake2Mat
+		processing begun of material:  BlueTrim
+		registered as also a user of material:  PedestalBake2Mat
+		registered as also a user of material:  BlueTrim
+		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#1
+		num positions      :  679
+		num normals        :  679
+		num tangents       :  0
+		num uvs            :  1358
+		num uvs2           :  1358
+		num colors         :  0
+		num triangles      :  340
+	processing begun of mesh:  ElevatorHallDoor
+		animation processing begun
+			processing action ElevatorHallAction.002:  in[49 - 100], out[0 - 100]
+		processing begun of material:  EDMat
+		registered as also a user of material:  EDMat
+		num positions      :  388
+		num normals        :  388
+		num tangents       :  0
+		num uvs            :  776
+		num uvs2           :  776
+		num colors         :  0
+		num triangles      :  144
+	processing begun of mesh:  ElevatorHallBack
+		animation processing begun
+			processing action ElevatorHallAction.003:  in[49 - 49], out[0 - 49]
+		processing begun of material:  PedestalBake2Mat
+		processing begun of material:  BlueTrim
+		registered as also a user of material:  PedestalBake2Mat
+		registered as also a user of material:  BlueTrim
+		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#2
+		num positions      :  139
+		num normals        :  139
+		num tangents       :  0
+		num uvs            :  278
+		num uvs2           :  278
+		num colors         :  0
+		num triangles      :  56
+	processing begun of light (HEMI FROM AREA):  AreaLight
+	WARNING: Area lights,which convert to HemisphericLight, do not support shadow, thus ignored: AreaLight
 	processing begun of light (POINT):  Point.003
 	processing begun of shadows for light:  Point.003
-	processing begun of light (POINT):  Point.004
-	processing begun of shadows for light:  Point.004
 	processing begun of light (POINT):  Point.001
 	processing begun of shadows for light:  Point.001
+	processing begun of light (POINT):  Point.002
+	processing begun of shadows for light:  Point.002
+	processing begun of light (POINT):  Point.004
+	processing begun of shadows for light:  Point.004
 	processing begun of light (POINT):  Point.005
 	processing begun of shadows for light:  Point.005
+	processing begun of light (POINT):  Point.006
+	processing begun of shadows for light:  Point.006
+	processing begun of light (POINT):  Point
 ========= Writing of JSON file started =========
-	writing mesh:  CaveComplex
-	writing mesh:  Cube.001
-	writing mesh:  CaveComplexPedestal
-	writing mesh:  Cube.000
-	writing mesh:  Podium
-	writing mesh:  greenscreen
-	writing mesh:  Cube
-	writing mesh:  Cube.002
 	writing mesh:  MainRoom
 	writing mesh:  MainRoom.001
-	writing mesh:  FloorMap
 	writing mesh:  MainRoom.003
 	writing mesh:  MainRoom.004
 	writing mesh:  SmallRoom1
@@ -320,6 +342,17 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  EncloseShortWall.001
 	writing mesh:  EncloseShortWall.002
 	writing mesh:  EncloseShortWall.003
+	writing mesh:  CaveComplex
+	writing mesh:  ElevatorDoor
+	writing mesh:  ElevatorDoorBack
+	writing mesh:  ElevatorShaft
+	writing mesh:  ElevatorShaftDoor
+	writing mesh:  PedestalFence
+	writing mesh:  Podium
+	writing mesh:  CaveComplex2
+	writing mesh:  ElevatorHall
+	writing mesh:  ElevatorHallDoor
+	writing mesh:  ElevatorHallBack
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 11.7253 secs
+elapsed time:  0 min, 16.7569 secs
