@@ -183,25 +183,25 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 			processing texture CaveComplexBlueTrim
 				texture type:  emissiveTexture, mapped using: "Joined2"
 		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#0
-		num positions      :  26726
-		num normals        :  26726
+		num positions      :  25781
+		num normals        :  25781
 		num tangents       :  0
-		num uvs            :  53452
-		num uvs2           :  53452
+		num uvs            :  51562
+		num uvs2           :  51562
 		num colors         :  0
-		num triangles      :  12599
-		WARNING: # of 0 area faces found:  94
+		num triangles      :  12044
+		WARNING: # of 0 area faces found:  166
 	processing begun of mesh:  ElevatorDoor
 		processing begun of material:  EDMat
 			processing texture CaveComplexShadowBake
 				texture type:  diffuseTexture, mapped using: "UVMap"
-		num positions      :  318
-		num normals        :  318
+		num positions      :  400
+		num normals        :  400
 		num tangents       :  0
-		num uvs            :  636
+		num uvs            :  800
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  160
+		num triangles      :  192
 	processing begun of mesh:  ElevatorDoorBack
 		processing begun of material:  caveComplexMultiBake4
 			processing texture CaveComplexShadowBake
@@ -262,13 +262,13 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 				texture type:  bumpTexture, mapped using: "Joined2"
 			processing texture CaveComplexShadowBake
 				texture type:  diffuseTexture, mapped using: "Joined2"
-		num positions      :  16958
-		num normals        :  16958
+		num positions      :  16953
+		num normals        :  16953
 		num tangents       :  0
-		num uvs            :  33916
-		num uvs2           :  33916
+		num uvs            :  33906
+		num uvs2           :  33906
 		num colors         :  0
-		num triangles      :  8676
+		num triangles      :  8674
 		WARNING: # of 0 area faces found:  4
 	processing begun of mesh:  ElevatorHall
 		animation processing begun
@@ -278,13 +278,13 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		registered as also a user of material:  PedestalBake2Mat
 		registered as also a user of material:  BlueTrim
 		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#1
-		num positions      :  679
-		num normals        :  679
+		num positions      :  712
+		num normals        :  712
 		num tangents       :  0
-		num uvs            :  1358
-		num uvs2           :  1358
+		num uvs            :  1424
+		num uvs2           :  1424
 		num colors         :  0
-		num triangles      :  340
+		num triangles      :  377
 	processing begun of mesh:  ElevatorHallDoor
 		animation processing begun
 			processing action ElevatorHallAction.002:  in[49 - 100], out[0 - 100]
@@ -312,6 +312,68 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num uvs2           :  278
 		num colors         :  0
 		num triangles      :  56
+	processing begun of mesh:  ElevatorHallBlackBox
+		animation processing begun
+			processing action ElevatorHallAction.004:  in[49 - 49], out[0 - 49]
+		processing begun of material:  BlackMat
+		num positions      :  363
+		num normals        :  363
+		num tangents       :  0
+		num uvs            :  726
+		num uvs2           :  726
+		num colors         :  0
+		num triangles      :  180
+	processing begun of mesh:  ElevatorHallFloorImage
+		animation processing begun
+			processing action ElevatorHallAction.005:  in[49 - 49], out[0 - 49]
+		processing begun of material:  PedestalBake2Mat
+		processing begun of material:  BlueTrim
+		registered as also a user of material:  PedestalBake2Mat
+		registered as also a user of material:  BlueTrim
+		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#3
+		num positions      :  10
+		num normals        :  10
+		num tangents       :  0
+		num uvs            :  20
+		num uvs2           :  20
+		num colors         :  0
+		num triangles      :  8
+	processing begun of mesh:  Elevator
+		processing begun of material:  PedestalBake2Mat
+		processing begun of material:  BlueTrim
+		registered as also a user of material:  PedestalBake2Mat
+		registered as also a user of material:  BlueTrim
+		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#4
+		num positions      :  1218
+		num normals        :  1218
+		num tangents       :  0
+		num uvs            :  2436
+		num uvs2           :  2436
+		num colors         :  0
+		num triangles      :  729
+	processing begun of mesh:  RampDoor
+		processing begun of material:  PedestalBake2Mat
+		processing begun of material:  BlueTrim
+		registered as also a user of material:  PedestalBake2Mat
+		registered as also a user of material:  BlueTrim
+		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#5
+		num positions      :  42
+		num normals        :  42
+		num tangents       :  0
+		num uvs            :  84
+		num uvs2           :  84
+		num colors         :  0
+		num triangles      :  20
+	processing begun of mesh:  SentryTowerDescent
+		processing begun of material:  caveComplexMultiBake2
+		registered as also a user of material:  caveComplexMultiBake2
+		num positions      :  322
+		num normals        :  322
+		num tangents       :  0
+		num uvs            :  644
+		num uvs2           :  644
+		num colors         :  0
+		num triangles      :  132
 	processing begun of light (HEMI FROM AREA):  AreaLight
 	WARNING: Area lights,which convert to HemisphericLight, do not support shadow, thus ignored: AreaLight
 	processing begun of light (POINT):  Point.003
@@ -353,6 +415,11 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  ElevatorHall
 	writing mesh:  ElevatorHallDoor
 	writing mesh:  ElevatorHallBack
+	writing mesh:  ElevatorHallBlackBox
+	writing mesh:  ElevatorHallFloorImage
+	writing mesh:  Elevator
+	writing mesh:  RampDoor
+	writing mesh:  SentryTowerDescent
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 16.7569 secs
+elapsed time:  0 min, 17.8214 secs
