@@ -183,13 +183,13 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 			processing texture CaveComplexBlueTrim
 				texture type:  emissiveTexture, mapped using: "Joined2"
 		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#0
-		num positions      :  25781
-		num normals        :  25781
+		num positions      :  25808
+		num normals        :  25808
 		num tangents       :  0
-		num uvs            :  51562
-		num uvs2           :  51562
+		num uvs            :  51616
+		num uvs2           :  51616
 		num colors         :  0
-		num triangles      :  12044
+		num triangles      :  12083
 		WARNING: # of 0 area faces found:  166
 	processing begun of mesh:  ElevatorDoor
 		processing begun of material:  EDMat
@@ -365,15 +365,31 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num colors         :  0
 		num triangles      :  20
 	processing begun of mesh:  SentryTowerDescent
-		processing begun of material:  caveComplexMultiBake2
-		registered as also a user of material:  caveComplexMultiBake2
-		num positions      :  322
-		num normals        :  322
+		processing begun of material:  PedestalBake2Mat
+		processing begun of material:  BlueTrim
+		registered as also a user of material:  PedestalBake2Mat
+		registered as also a user of material:  BlueTrim
+		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#6
+		num positions      :  3160
+		num normals        :  3160
 		num tangents       :  0
-		num uvs            :  644
-		num uvs2           :  644
+		num uvs            :  6320
+		num uvs2           :  6320
 		num colors         :  0
-		num triangles      :  132
+		num triangles      :  1560
+	processing begun of mesh:  PedestalRoom
+		processing begun of material:  cylinderMat
+		processing begun of material:  BlankMat
+		registered as also a user of material:  cylinderMat
+		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#7
+		num positions      :  2277
+		num normals        :  2277
+		num tangents       :  0
+		num uvs            :  4554
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1012
+		WARNING: # of 0 area faces found:  16
 	processing begun of light (HEMI FROM AREA):  AreaLight
 	WARNING: Area lights,which convert to HemisphericLight, do not support shadow, thus ignored: AreaLight
 	processing begun of light (POINT):  Point.003
@@ -420,6 +436,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  Elevator
 	writing mesh:  RampDoor
 	writing mesh:  SentryTowerDescent
+	writing mesh:  PedestalRoom
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 17.8214 secs
+elapsed time:  0 min, 17.2427 secs
