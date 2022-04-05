@@ -381,14 +381,16 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		processing begun of material:  cylinderMat
 		processing begun of material:  BlankMat
 		registered as also a user of material:  cylinderMat
+			processing texture MissingCorrConcrete
+				texture type:  diffuseTexture, mapped using: "UVMap"
 		processing begun of multimaterial:  STPRooms2021ForQuest.Multimaterial#7
-		num positions      :  2277
-		num normals        :  2277
+		num positions      :  2966
+		num normals        :  2966
 		num tangents       :  0
-		num uvs            :  4554
+		num uvs            :  5932
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  1012
+		num triangles      :  1292
 		WARNING: # of 0 area faces found:  16
 	processing begun of light (HEMI FROM AREA):  AreaLight
 	WARNING: Area lights,which convert to HemisphericLight, do not support shadow, thus ignored: AreaLight
@@ -439,4 +441,4 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  PedestalRoom
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 17.2427 secs
+elapsed time:  0 min, 16.5315 secs
