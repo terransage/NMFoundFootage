@@ -1,0 +1,403 @@
+Exporter version: 2.93.4, Blender version: 2.93.5
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Ken\Documents\My Web Sites\Hidden\
+	Python World class constructor completed
+	WARNING: The following camera not visible in scene thus ignored: Camera
+	processing begun of mesh:  HallCross
+		processing begun of material:  HallCrossBakeMat
+			processing texture HallCrossBakeBumpNormal
+				texture type:  bumpTexture, mapped using: "Joined"
+			processing texture HallCrossBakeShadow
+				texture type:  diffuseTexture, mapped using: "Joined"
+		num positions      :  3950
+		num normals        :  3950
+		num tangents       :  0
+		num uvs            :  7900
+		num uvs2           :  7900
+		num colors         :  0
+		num triangles      :  1882
+	processing begun of mesh:  HallCross.001
+		processing begun of material:  GeneralWallMat
+		processing begun of material:  WallFrameMat
+		processing begun of material:  GoldFeatherMat
+		processing begun of material:  FloorMat
+		processing begun of material:  MandalaMat
+		processing begun of material:  CrossHatch
+		processing begun of material:  WoodMat
+		processing begun of material:  DarkGreen
+			processing texture FloorTilePedestalRoom
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture FloorTilePedestalRoomOrange
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture goldenfeathersmotifnormal
+				texture type:  bumpTexture, mapped using: "Joined"
+			processing texture goldenfeathersmotif
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture FloorBricksTurq
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture MandalaNormal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture Mandala
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture CeilingPanelHallCross
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture WoodFloor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture FloorTilePedestalRoomGreen
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#0
+		num positions      :  4072
+		num normals        :  4072
+		num tangents       :  0
+		num uvs            :  8144
+		num uvs2           :  8144
+		num colors         :  0
+		num triangles      :  1874
+	processing begun of mesh:  HallDecor
+		processing begun of material:  GeneralWallMat
+		processing begun of material:  WallFrameMat
+		processing begun of material:  GoldFeatherMat
+		processing begun of material:  FloorMat
+		processing begun of material:  MandalaMat
+		processing begun of material:  CrossHatch
+		processing begun of material:  WoodMat
+		processing begun of material:  DarkGreen
+		registered as also a user of material:  GeneralWallMat
+		registered as also a user of material:  WallFrameMat
+		registered as also a user of material:  GoldFeatherMat
+		registered as also a user of material:  FloorMat
+		registered as also a user of material:  MandalaMat
+		registered as also a user of material:  CrossHatch
+		registered as also a user of material:  WoodMat
+		registered as also a user of material:  DarkGreen
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#1
+		num positions      :  232
+		num normals        :  232
+		num tangents       :  0
+		num uvs            :  464
+		num uvs2           :  464
+		num colors         :  0
+		num triangles      :  130
+	processing begun of mesh:  HallCross.003
+		processing begun of material:  HallCrossBakeMat
+		registered as also a user of material:  HallCrossBakeMat
+		num positions      :  232
+		num normals        :  232
+		num tangents       :  0
+		num uvs            :  464
+		num uvs2           :  464
+		num colors         :  0
+		num triangles      :  130
+	processing begun of mesh:  RuinWall
+		processing begun of material:  RuinWallBakeMat
+			processing texture RuinHallBakeNormal
+				texture type:  bumpTexture, mapped using: "JoinedRuinHall"
+			processing texture RuinHallBake
+				texture type:  diffuseTexture, mapped using: "JoinedRuinHall"
+		Custom split normals with tangents being used
+		num positions      :  6316
+		num normals        :  6316
+		num tangents       :  25264
+		num uvs            :  12632
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2636
+		WARNING: # of 0 area faces found:  40
+	processing begun of mesh:  RuinWall2
+		processing begun of material:  RuinWallBakeMat
+		registered as also a user of material:  RuinWallBakeMat
+		Custom split normals with tangents being used
+		num positions      :  6316
+		num normals        :  6316
+		num tangents       :  25264
+		num uvs            :  12632
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2636
+		WARNING: # of 0 area faces found:  40
+	processing begun of mesh:  RuinWall3
+		processing begun of material:  RuinWallBakeMat
+		registered as also a user of material:  RuinWallBakeMat
+		Custom split normals with tangents being used
+		num positions      :  6316
+		num normals        :  6316
+		num tangents       :  25264
+		num uvs            :  12632
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2636
+		WARNING: # of 0 area faces found:  40
+	processing begun of mesh:  Labyrinth
+		processing begun of material:  LabWallMat
+		processing begun of material:  LabFloorMat
+		processing begun of material:  RuinedLabWallMat
+		processing begun of material:  LabBakeShadow
+			processing texture FloorTilePedestalRoomGreen
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture FloorTilePedestalRoom
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture FloorTilePedestalRoomOrange
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture LabyrinthBakeNormal
+				texture type:  bumpTexture, mapped using: "Joined"
+			processing texture LabyrinthBakeShadow
+				texture type:  diffuseTexture, mapped using: "Joined"
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#2
+		num positions      :  3272
+		num normals        :  3272
+		num tangents       :  0
+		num uvs            :  6544
+		num uvs2           :  6544
+		num colors         :  0
+		num triangles      :  1668
+	processing begun of mesh:  OuterBuilding
+		processing begun of material:  OuterShellBakeMat
+			processing texture OuterShellShadowBake
+				texture type:  diffuseTexture, mapped using: "OuterShellMap"
+		num positions      :  254
+		num normals        :  254
+		num tangents       :  0
+		num uvs            :  508
+		num uvs2           :  508
+		num colors         :  0
+		num triangles      :  110
+	processing begun of mesh:  OuterBuildCeiling
+		processing begun of material:  OuterShellBakeMat
+		registered as also a user of material:  OuterShellBakeMat
+		num positions      :  384
+		num normals        :  384
+		num tangents       :  0
+		num uvs            :  768
+		num uvs2           :  768
+		num colors         :  0
+		num triangles      :  160
+	processing begun of mesh:  Circle
+		processing begun of material:  CircleMat
+		processing begun of material:  CylinderMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#3
+		num positions      :  2816
+		num normals        :  2816
+		num tangents       :  0
+		num uvs            :  5632
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1364
+	processing begun of mesh:  Head
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+			processing texture MarauderTexture
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture MarauderTexture
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#4
+		num positions      :  2014
+		num normals        :  2014
+		num tangents       :  0
+		num uvs            :  4028
+		num uvs2           :  0
+		num colors         :  8056
+		num triangles      :  786
+	processing begun of mesh:  LeftHand
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+		registered as also a user of material:  MarauderMat
+		registered as also a user of material:  MarauderEyesMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#5
+		num positions      :  449
+		num normals        :  449
+		num tangents       :  0
+		num uvs            :  898
+		num uvs2           :  0
+		num colors         :  1796
+		num triangles      :  152
+	processing begun of mesh:  LeftLowerArm
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+		registered as also a user of material:  MarauderMat
+		registered as also a user of material:  MarauderEyesMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#6
+		num positions      :  395
+		num normals        :  395
+		num tangents       :  0
+		num uvs            :  790
+		num uvs2           :  0
+		num colors         :  1580
+		num triangles      :  158
+	processing begun of mesh:  LeftUpperArm
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+		registered as also a user of material:  MarauderMat
+		registered as also a user of material:  MarauderEyesMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#7
+		num positions      :  328
+		num normals        :  328
+		num tangents       :  0
+		num uvs            :  656
+		num uvs2           :  0
+		num colors         :  1312
+		num triangles      :  110
+	processing begun of mesh:  LowerLeftLeg
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+		registered as also a user of material:  MarauderMat
+		registered as also a user of material:  MarauderEyesMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#8
+		num positions      :  846
+		num normals        :  846
+		num tangents       :  0
+		num uvs            :  1692
+		num uvs2           :  0
+		num colors         :  3384
+		num triangles      :  390
+	processing begun of mesh:  LowerRightLeg
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+		registered as also a user of material:  MarauderMat
+		registered as also a user of material:  MarauderEyesMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#9
+		num positions      :  841
+		num normals        :  841
+		num tangents       :  0
+		num uvs            :  1682
+		num uvs2           :  0
+		num colors         :  3364
+		num triangles      :  390
+	processing begun of mesh:  Pelvis
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+		registered as also a user of material:  MarauderMat
+		registered as also a user of material:  MarauderEyesMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#10
+		num positions      :  154
+		num normals        :  154
+		num tangents       :  0
+		num uvs            :  308
+		num uvs2           :  0
+		num colors         :  616
+		num triangles      :  64
+	processing begun of mesh:  RightHand
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+		registered as also a user of material:  MarauderMat
+		registered as also a user of material:  MarauderEyesMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#11
+		num positions      :  407
+		num normals        :  407
+		num tangents       :  0
+		num uvs            :  814
+		num uvs2           :  0
+		num colors         :  1628
+		num triangles      :  154
+	processing begun of mesh:  RightLowerArm
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+		registered as also a user of material:  MarauderMat
+		registered as also a user of material:  MarauderEyesMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#12
+		num positions      :  401
+		num normals        :  401
+		num tangents       :  0
+		num uvs            :  802
+		num uvs2           :  0
+		num colors         :  1604
+		num triangles      :  156
+	processing begun of mesh:  RightUpperArm
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+		registered as also a user of material:  MarauderMat
+		registered as also a user of material:  MarauderEyesMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#13
+		num positions      :  305
+		num normals        :  305
+		num tangents       :  0
+		num uvs            :  610
+		num uvs2           :  0
+		num colors         :  1220
+		num triangles      :  122
+	processing begun of mesh:  Torso
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+		registered as also a user of material:  MarauderMat
+		registered as also a user of material:  MarauderEyesMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#14
+		num positions      :  443
+		num normals        :  443
+		num tangents       :  0
+		num uvs            :  886
+		num uvs2           :  0
+		num colors         :  1772
+		num triangles      :  148
+	processing begun of mesh:  UpperLeftLeg
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+		registered as also a user of material:  MarauderMat
+		registered as also a user of material:  MarauderEyesMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#15
+		num positions      :  300
+		num normals        :  300
+		num tangents       :  0
+		num uvs            :  600
+		num uvs2           :  0
+		num colors         :  1200
+		num triangles      :  120
+	processing begun of mesh:  UpperRightLeg
+		processing begun of material:  MarauderMat
+		processing begun of material:  MarauderEyesMat
+		registered as also a user of material:  MarauderMat
+		registered as also a user of material:  MarauderEyesMat
+		processing begun of multimaterial:  ClearTheRubbleHallCross.Multimaterial#16
+		num positions      :  305
+		num normals        :  305
+		num tangents       :  0
+		num uvs            :  610
+		num uvs2           :  0
+		num colors         :  1220
+		num triangles      :  120
+	processing begun of light (POINT):  Light
+	processing begun of light (POINT):  Light.001
+	processing begun of light (POINT):  Light.002
+	processing begun of light (POINT):  Light.003
+	processing begun of light (POINT):  Light.004
+	processing begun of light (POINT):  Light.005
+	processing begun of light (POINT):  Light.006
+	processing begun of light (POINT):  Light.007
+	processing begun of light (POINT):  Light.008
+	processing begun of light (POINT):  Light.009
+	processing begun of light (POINT):  Light.010
+========= Writing of JSON file started =========
+	writing mesh:  HallCross
+	writing mesh:  HallCross.001
+	writing mesh:  HallDecor
+	writing mesh:  HallCross.003
+	writing mesh:  RuinWall
+	writing mesh:  RuinWall2
+	writing mesh:  RuinWall3
+	writing mesh:  Labyrinth
+	writing mesh:  OuterBuilding
+	writing mesh:  OuterBuildCeiling
+	writing mesh:  Circle
+	writing mesh:  Head
+	writing mesh:  LeftHand
+	writing mesh:  LeftLowerArm
+	writing mesh:  LeftUpperArm
+	writing mesh:  LowerLeftLeg
+	writing mesh:  LowerRightLeg
+	writing mesh:  Pelvis
+	writing mesh:  RightHand
+	writing mesh:  RightLowerArm
+	writing mesh:  RightUpperArm
+	writing mesh:  Torso
+	writing mesh:  UpperLeftLeg
+	writing mesh:  UpperRightLeg
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 4.221 secs
