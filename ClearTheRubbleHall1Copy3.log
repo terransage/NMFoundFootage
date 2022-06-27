@@ -1,0 +1,228 @@
+Exporter version: 2.93.4, Blender version: 2.93.5
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Ken\Documents\My Web Sites\Hidden\
+	Python World class constructor completed
+	processing begun of mesh:  WallBackground
+		processing begun of material:  Hall1Bake2Mat
+			processing texture HallBake1Normal
+				texture type:  bumpTexture, mapped using: "Joined"
+			processing texture Hall1Bake2
+				texture type:  diffuseTexture, mapped using: "Joined"
+		num positions      :  4816
+		num normals        :  4816
+		num tangents       :  0
+		num uvs            :  9632
+		num uvs2           :  9632
+		num colors         :  0
+		num triangles      :  2262
+	WARNING: The following camera not visible in scene thus ignored: Camera
+	processing begun of mesh:  UrbexHallWall1
+		processing begun of material:  Hall1Bake2Mat
+		registered as also a user of material:  Hall1Bake2Mat
+		num positions      :  7
+		num normals        :  7
+		num tangents       :  0
+		num uvs            :  14
+		num uvs2           :  14
+		num colors         :  0
+		num triangles      :  5
+	processing begun of mesh:  UrbexHallWall2
+		processing begun of material:  Hall1Bake2Mat
+		registered as also a user of material:  Hall1Bake2Mat
+		num positions      :  7
+		num normals        :  7
+		num tangents       :  0
+		num uvs            :  14
+		num uvs2           :  14
+		num colors         :  0
+		num triangles      :  5
+	processing begun of mesh:  CeilingHoleCover
+		processing begun of material:  Hall1Bake2Mat
+		registered as also a user of material:  Hall1Bake2Mat
+		num positions      :  17
+		num normals        :  17
+		num tangents       :  0
+		num uvs            :  34
+		num uvs2           :  34
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  DeadLightCover
+		processing begun of material:  Hall1Bake2Mat
+		registered as also a user of material:  Hall1Bake2Mat
+		num positions      :  12
+		num normals        :  12
+		num tangents       :  0
+		num uvs            :  24
+		num uvs2           :  24
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  DeadLightWire
+		processing begun of material:  Hall1Bake2Mat
+		registered as also a user of material:  Hall1Bake2Mat
+		num positions      :  1323
+		num normals        :  1323
+		num tangents       :  0
+		num uvs            :  2646
+		num uvs2           :  2646
+		num colors         :  0
+		num triangles      :  552
+	processing begun of mesh:  SparkSource
+		processing begun of material:  Hall1Bake2Mat
+		registered as also a user of material:  Hall1Bake2Mat
+		num positions      :  56
+		num normals        :  56
+		num tangents       :  0
+		num uvs            :  112
+		num uvs2           :  112
+		num colors         :  0
+		num triangles      :  28
+	processing begun of mesh:  WallBackground.001
+		processing begun of material:  FrontWallBakeMat
+			processing texture FrontWallBake_hn
+				texture type:  bumpTexture, mapped using: "Joined2"
+			processing texture FrontWallShadowBake
+				texture type:  diffuseTexture, mapped using: "Joined2"
+		num positions      :  804
+		num normals        :  804
+		num tangents       :  0
+		num uvs            :  1608
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  368
+	processing begun of mesh:  FirstRoom
+		processing begun of material:  FirstRoomShadowMat
+			processing texture FirstRoomShadowBake_hn
+				texture type:  bumpTexture, mapped using: "Joined4"
+			processing texture FirstRoomShadowBake
+				texture type:  diffuseTexture, mapped using: "Joined4"
+		num positions      :  1559
+		num normals        :  1559
+		num tangents       :  0
+		num uvs            :  3118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  792
+		WARNING: # of 0 area faces found:  56
+	processing begun of mesh:  LightBox
+		processing begun of material:  LampMat
+			processing texture FrontWallShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  226
+		num normals        :  226
+		num tangents       :  0
+		num uvs            :  452
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  LightBox2
+		processing begun of material:  LampMat
+		registered as also a user of material:  LampMat
+		num positions      :  161
+		num normals        :  161
+		num tangents       :  0
+		num uvs            :  322
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  60
+	processing begun of mesh:  PaintCan
+		processing begun of material:  GrosteBakeMat
+			processing texture GrosteBakeShadow
+				texture type:  diffuseTexture, mapped using: "BakeMap"
+		num positions      :  1030
+		num normals        :  1030
+		num tangents       :  0
+		num uvs            :  2060
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  444
+	processing begun of mesh:  BrokenStick
+		processing begun of material:  BrokenBeamMat
+			processing texture FrontWallShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  630
+		num normals        :  630
+		num tangents       :  0
+		num uvs            :  1260
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  220
+	processing begun of mesh:  Sign
+		processing begun of material:  UnderConstructMat
+			processing texture UnderConstruction
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1656
+		num normals        :  1656
+		num tangents       :  0
+		num uvs            :  3312
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  572
+	processing begun of mesh:  Wheelbarrow
+		processing begun of material:  WheelbarrowBakeMat
+			processing texture WheelbarrowBake
+				texture type:  diffuseTexture, mapped using: "Joined"
+		num positions      :  5948
+		num normals        :  5948
+		num tangents       :  0
+		num uvs            :  11896
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2354
+		WARNING: # of 0 area faces found:  16
+	processing begun of mesh:  Ladder
+		processing begun of material:  LadderMat
+		processing begun of material:  LadderBakeMat
+			processing texture LadderBake
+				texture type:  diffuseTexture, mapped using: "LadderMap"
+			processing texture LadderBake
+				texture type:  diffuseTexture, mapped using: "LadderMap"
+		processing begun of multimaterial:  ClearTheRubbleHall1Copy3.Multimaterial#0
+		num positions      :  1570
+		num normals        :  1570
+		num tangents       :  0
+		num uvs            :  3140
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  894
+	processing begun of mesh:  RubbleFrontWall
+		processing begun of material:  BrokenBricks
+			processing texture FrontWallShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1519
+		num normals        :  1519
+		num tangents       :  0
+		num uvs            :  3038
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  648
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  WallBackground
+	writing mesh:  UrbexHallWall1
+	writing mesh:  UrbexHallWall2
+	writing mesh:  CeilingHoleCover
+	writing mesh:  DeadLightCover
+	writing mesh:  DeadLightWire
+	writing mesh:  SparkSource
+	writing mesh:  WallBackground.001
+	writing mesh:  FirstRoom
+	writing mesh:  LightBox
+	writing mesh:  LightBox2
+	writing mesh:  PaintCan
+	writing mesh:  BrokenStick
+	writing mesh:  Sign
+	writing mesh:  Wheelbarrow
+	writing mesh:  Ladder
+	writing mesh:  RubbleFrontWall
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.5583 secs
