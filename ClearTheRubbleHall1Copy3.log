@@ -17,13 +17,13 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 				texture type:  bumpTexture, mapped using: "Joined"
 			processing texture Hall1Bake2
 				texture type:  diffuseTexture, mapped using: "Joined"
-		num positions      :  4816
-		num normals        :  4816
+		num positions      :  4877
+		num normals        :  4877
 		num tangents       :  0
-		num uvs            :  9632
-		num uvs2           :  9632
+		num uvs            :  9754
+		num uvs2           :  9754
 		num colors         :  0
-		num triangles      :  2262
+		num triangles      :  2310
 	WARNING: The following camera not visible in scene thus ignored: Camera
 	processing begun of mesh:  UrbexHallWall1
 		processing begun of material:  Hall1Bake2Mat
@@ -38,13 +38,13 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	processing begun of mesh:  UrbexHallWall2
 		processing begun of material:  Hall1Bake2Mat
 		registered as also a user of material:  Hall1Bake2Mat
-		num positions      :  7
-		num normals        :  7
+		num positions      :  8922
+		num normals        :  8922
 		num tangents       :  0
-		num uvs            :  14
-		num uvs2           :  14
+		num uvs            :  17844
+		num uvs2           :  17844
 		num colors         :  0
-		num triangles      :  5
+		num triangles      :  4880
 	processing begun of mesh:  CeilingHoleCover
 		processing begun of material:  Hall1Bake2Mat
 		registered as also a user of material:  Hall1Bake2Mat
@@ -204,6 +204,16 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  648
+	processing begun of mesh:  HiddenDoor
+		processing begun of material:  Hall1Bake2Mat
+		registered as also a user of material:  Hall1Bake2Mat
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  32
+		num colors         :  0
+		num triangles      :  14
 	processing begun of light (POINT):  Light
 ========= Writing of JSON file started =========
 	writing mesh:  WallBackground
@@ -223,6 +233,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  Wheelbarrow
 	writing mesh:  Ladder
 	writing mesh:  RubbleFrontWall
+	writing mesh:  HiddenDoor
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.5583 secs
+elapsed time:  0 min, 2.6517 secs
