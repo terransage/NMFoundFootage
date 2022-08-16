@@ -1,0 +1,266 @@
+Exporter version: 2.93.4, Blender version: 2.93.5
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Ken\Documents\My Web Sites\Hidden\
+			WARNING: unsupported node type(ShaderNodeLightPath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeNormal) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeNormal) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeCombineRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeTexNoise) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeCombineRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeTexNoise) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeNormal) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeGamma) will trigger baking
+			WARNING: unsupported node type(ShaderNodeNormal) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeNormal) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeNormal) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeGamma) will trigger baking
+			WARNING: unsupported node type(ShaderNodeGamma) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeNormal) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeNormal) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeCombineRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeTexNoise) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeCombineRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeTexNoise) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeNormal) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeNormal) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeNormal) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeNormal) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  Cube
+		processing begun of material:  BuildingQuint
+		processing begun of material:  Buildings
+			processing texture FloorTilePedestalRoom
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture CaveComplexBlueTrim
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  ClearTheRubbleDitchPath.Multimaterial#0
+		num positions      :  192
+		num normals        :  192
+		num tangents       :  0
+		num uvs            :  384
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  92
+	processing begun of mesh:  Cube.001
+		processing begun of material:  AbqLandscape
+		processing begun of material:  BlackBarMat
+			processing texture AbqNeighborhoodLandscapeBlueSky
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture AbqNeighborhoodLandscapeBlueSky
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  ClearTheRubbleDitchPath.Multimaterial#1
+		num positions      :  372
+		num normals        :  372
+		num tangents       :  0
+		num uvs            :  744
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  Cube.002
+		processing begun of material:  5697TokMat
+		processing begun of material:  5697TokCrackMat
+		processing begun of material:  5697TokSignMat
+		processing begun of material:  Fence
+		processing begun of material:  PathFloorMat
+			processing texture FloorTilePedestalRoom
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture FloorTilePedestalRoom
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  ClearTheRubbleDitchPath.Multimaterial#2
+		num positions      :  13297
+		num normals        :  13297
+		num tangents       :  0
+		num uvs            :  26594
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  5524
+	processing begun of mesh:  Cube.003
+		processing begun of material:  BuildingBLM
+		processing begun of material:  Buildings
+			processing texture FloorTilePedestalRoom
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Buildings
+		processing begun of multimaterial:  ClearTheRubbleDitchPath.Multimaterial#3
+		num positions      :  4177
+		num normals        :  4177
+		num tangents       :  0
+		num uvs            :  8354
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3712
+	processing begun of mesh:  Sewer
+		processing begun of material:  Sewer
+			processing texture FloorTilePedestalRoom
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  287
+		num normals        :  287
+		num tangents       :  0
+		num uvs            :  574
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  118
+	processing begun of mesh:  Cube.005
+		processing begun of material:  5697TokMat
+		processing begun of material:  5697TokMat2
+		processing begun of material:  Escarp
+		registered as also a user of material:  5697TokMat
+			processing texture FloorTilePedestalRoom
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  ClearTheRubbleDitchPath.Multimaterial#4
+		num positions      :  524
+		num normals        :  524
+		num tangents       :  0
+		num uvs            :  1048
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  196
+	processing begun of mesh:  Cube.004
+		processing begun of material:  5697TokMat2
+		processing begun of material:  Sewer2
+		registered as also a user of material:  5697TokMat2
+			processing texture FloorTilePedestalRoom
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  ClearTheRubbleDitchPath.Multimaterial#5
+		num positions      :  303
+		num normals        :  303
+		num tangents       :  0
+		num uvs            :  606
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  128
+	processing begun of mesh:  map_3.osm_buildings
+		processing begun of material:  Buildings
+		processing begun of material:  BuildingsGreen
+		registered as also a user of material:  Buildings
+		processing begun of multimaterial:  ClearTheRubbleDitchPath.Multimaterial#6
+		num positions      :  13142
+		num normals        :  13142
+		num tangents       :  0
+		num uvs            :  26284
+		num uvs2           :  26284
+		num colors         :  52568
+		num triangles      :  11041
+		WARNING: # of 0 area faces found:  2
+	processing begun of mesh:  Terrain
+		processing begun of material:  TerrainShadowMat
+			processing texture TerrainShadowBake2
+				texture type:  diffuseTexture, mapped using: "ShadowMap"
+		num positions      :  1469
+		num normals        :  1469
+		num tangents       :  0
+		num uvs            :  2938
+		num uvs2           :  2938
+		num colors         :  0
+		num triangles      :  2793
+	processing begun of mesh:  Plane
+		processing begun of material:  overlay
+			processing texture overlayNormal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture overlay
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  8
+	processing begun of mesh:  GameBoardMapCut.001
+		animation processing begun
+			processing action Plane.001Action.004:  in[1 - 1], out[0 - 1]
+		processing begun of material:  NMMapMat
+			processing texture NMMapFullNoText
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  61
+		num normals        :  61
+		num tangents       :  0
+		num uvs            :  122
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  59
+	processing begun of mesh:  TerrainDoor
+		processing begun of material:  TerrainShadowMat
+		registered as also a user of material:  TerrainShadowMat
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  60
+		num colors         :  0
+		num triangles      :  41
+========= Writing of JSON file started =========
+	writing mesh:  Cube
+	writing mesh:  Cube.001
+	writing mesh:  Cube.002
+	writing mesh:  Cube.003
+	writing mesh:  Sewer
+	writing mesh:  Cube.005
+	writing mesh:  Cube.004
+	writing mesh:  map_3.osm_buildings
+	writing mesh:  Terrain
+	writing mesh:  Plane
+	writing mesh:  GameBoardMapCut.001
+	writing mesh:  TerrainDoor
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 4.6864 secs
