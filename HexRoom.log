@@ -1,0 +1,896 @@
+Exporter version: 2.93.4, Blender version: 2.93.5
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Ken\Documents\My Web Sites\Hidden\
+	Python World class constructor completed
+	WARNING: The following camera not visible in scene thus ignored: Camera
+	processing begun of mesh:  HexRoom
+		processing begun of material:  HexRoomBake
+		processing begun of material:  PanelGlowMat
+		processing begun of material:  GreenLineMat
+		processing begun of material:  GreyMat
+		processing begun of material:  GreenColumnMat
+			processing texture HexRoomBake2Normal
+				texture type:  bumpTexture, mapped using: "Joined2"
+			processing texture HexRoomBake2
+				texture type:  diffuseTexture, mapped using: "Joined2"
+			processing texture MDMachineGrey
+				texture type:  diffuseTexture, mapped using: "Joined2"
+			processing texture FloorTilePedestalRoomGreen
+				texture type:  diffuseTexture, mapped using: "Joined2"
+		processing begun of multimaterial:  HexRoom.Multimaterial#0
+		num positions      :  3520
+		num normals        :  3520
+		num tangents       :  0
+		num uvs            :  7040
+		num uvs2           :  7040
+		num colors         :  0
+		num triangles      :  1418
+		WARNING: # of 0 area faces found:  46
+	processing begun of mesh:  BrickWall
+		processing begun of material:  WallBakeMat
+			processing texture HexWallBakeNormal
+				texture type:  bumpTexture, mapped using: "Baking"
+			processing texture HexWallBake
+				texture type:  diffuseTexture, mapped using: "Baking"
+		num positions      :  16074
+		num normals        :  16074
+		num tangents       :  0
+		num uvs            :  32148
+		num uvs2           :  32148
+		num colors         :  0
+		num triangles      :  6008
+	processing begun of mesh:  Dome
+		processing begun of material:  LampMat
+		processing begun of material:  DomeBakeMat
+		processing begun of material:  PanelGlowMat
+			processing texture DomeBakeNormal
+				texture type:  bumpTexture, mapped using: "Baked"
+			processing texture DomeBake
+				texture type:  diffuseTexture, mapped using: "Baked"
+		registered as also a user of material:  PanelGlowMat
+		processing begun of multimaterial:  HexRoom.Multimaterial#1
+		num positions      :  4997
+		num normals        :  4997
+		num tangents       :  0
+		num uvs            :  9994
+		num uvs2           :  9994
+		num colors         :  0
+		num triangles      :  1894
+		WARNING: # of 0 area faces found:  4
+	processing begun of mesh:  HexRoomScreenLeft
+		animation processing begun
+			processing action HexRoomScreenLeftAction:  in[0 - 1220], out[0 - 1220]
+		processing begun of material:  ScreenMat
+		processing begun of material:  BlackMat
+			processing texture NMMapMain2RegScreenshot
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture BlackGlow
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  HexRoom.Multimaterial#2
+		num positions      :  174
+		num normals        :  174
+		num tangents       :  0
+		num uvs            :  348
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  92
+	processing begun of mesh:  Screen
+		animation processing begun
+			processing action ScreenAction:  in[0 - 1609], out[0 - 1609]
+		processing begun of material:  ScreenMat
+		processing begun of material:  BlackMat
+		registered as also a user of material:  ScreenMat
+		registered as also a user of material:  BlackMat
+		processing begun of multimaterial:  HexRoom.Multimaterial#3
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  HexRoomScreenRight
+		animation processing begun
+			processing action HexRoomScreenRightAction:  in[0 - 1220], out[0 - 1220]
+		processing begun of material:  ScreenMat
+		processing begun of material:  BlackMat
+		registered as also a user of material:  ScreenMat
+		registered as also a user of material:  BlackMat
+		processing begun of multimaterial:  HexRoom.Multimaterial#4
+		num positions      :  178
+		num normals        :  178
+		num tangents       :  0
+		num uvs            :  356
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  92
+	processing begun of mesh:  BracketLeft
+		processing begun of material:  BlackMat
+		processing begun of material:  PanelGlowMat
+		processing begun of material:  GreenLineMat
+		registered as also a user of material:  BlackMat
+		registered as also a user of material:  PanelGlowMat
+		registered as also a user of material:  GreenLineMat
+		processing begun of multimaterial:  HexRoom.Multimaterial#5
+		num positions      :  1722
+		num normals        :  1722
+		num tangents       :  0
+		num uvs            :  3444
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  828
+	processing begun of mesh:  BracketRight
+		processing begun of material:  BlackMat
+		processing begun of material:  PanelGlowMat
+		processing begun of material:  GreenLineMat
+		registered as also a user of material:  BlackMat
+		registered as also a user of material:  PanelGlowMat
+		registered as also a user of material:  GreenLineMat
+		processing begun of multimaterial:  HexRoom.Multimaterial#6
+		num positions      :  1721
+		num normals        :  1721
+		num tangents       :  0
+		num uvs            :  3442
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  828
+	processing begun of mesh:  MDMachine
+		animation processing begun
+			processing action MDMachineAction:  in[-1 - 1220], out[0 - 1220]
+		processing begun of material:  KeyDoorMat
+		processing begun of material:  MachineShadowMat
+			processing texture MachineBakeNormal
+				texture type:  bumpTexture, mapped using: "JoinMachine"
+			processing texture MachineBakeShadow
+				texture type:  diffuseTexture, mapped using: "JoinMachine"
+		processing begun of multimaterial:  HexRoom.Multimaterial#7
+		num positions      :  2405
+		num normals        :  2405
+		num tangents       :  0
+		num uvs            :  4810
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1400
+	processing begun of mesh:  MDCage
+		animation processing begun
+			processing action MDCageAction:  in[0 - 1220], out[0 - 1220]
+		processing begun of material:  GoldMat
+		num positions      :  231
+		num normals        :  231
+		num tangents       :  0
+		num uvs            :  462
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  96
+	processing begun of mesh:  MDObjectBox
+		animation processing begun
+			processing action MDObjectBoxAction:  in[0 - 1220], out[0 - 1220]
+		processing begun of material:  GoldMat
+		registered as also a user of material:  GoldMat
+		num positions      :  290
+		num normals        :  290
+		num tangents       :  0
+		num uvs            :  580
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  120
+	processing begun of mesh:  MDLeftPanel
+		animation processing begun
+			processing action MDLeftPanelAction:  in[1 - 1220], out[0 - 1220]
+		processing begun of material:  GoldMat
+		registered as also a user of material:  GoldMat
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  MDRightPanel
+		animation processing begun
+			processing action MDRightPanelAction:  in[0 - 1220], out[0 - 1220]
+		processing begun of material:  GoldMat
+		registered as also a user of material:  GoldMat
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  KeyCompartDoor
+		animation processing begun
+			processing action KeyCompartDoorAction:  in[-1 - 1220], out[0 - 1220]
+		processing begun of material:  KeyDoorMat
+		registered as also a user of material:  KeyDoorMat
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  MDParent
+		animation processing begun
+			processing action CubeAction:  in[0 - 1220], out[0 - 1220]
+		WARNING: No materials have been assigned: 
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  60
+		WARNING: # of 0 area faces found:  48
+	processing begun of mesh:  ResultInfoScreenParent
+		animation processing begun
+			processing action ResultInfoScreenParentAction:  in[0 - 1220], out[0 - 1220]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  ScrambleObject1
+		animation processing begun
+			processing action CubeAction.001:  in[0 - 1100], out[0 - 1100]
+		processing begun of material:  MultiColorMat
+			processing texture MultiColorBeigeBlack
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  207
+		num normals        :  207
+		num tangents       :  0
+		num uvs            :  414
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  82
+	processing begun of mesh:  ScrambleObject2
+		animation processing begun
+			processing action CubeAction.003:  in[0 - 1100], out[0 - 1100]
+		processing begun of material:  MultiColorMat
+		registered as also a user of material:  MultiColorMat
+		num positions      :  207
+		num normals        :  207
+		num tangents       :  0
+		num uvs            :  414
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  82
+	processing begun of mesh:  MDBookParent
+		animation processing begun
+			processing action MDBookParentAction:  in[0 - 1100], out[0 - 1100]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Flashlight
+		animation processing begun
+			processing action FlashlightAction:  in[0 - 1100], out[0 - 1100]
+		processing begun of material:  FlashlightMat
+			processing texture MultiColorBeigeBlack
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1553
+		num normals        :  1553
+		num tangents       :  0
+		num uvs            :  3106
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  610
+	processing begun of mesh:  DoorCenter
+		animation processing begun
+			processing action DoorCenterAction:  in[0 - 1300], out[0 - 1300]
+		processing begun of material:  GoldMetalMat
+		processing begun of material:  GreenLineMat
+		processing begun of material:  SilverMat
+			processing texture GoldColor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  GreenLineMat
+		processing begun of multimaterial:  HexRoom.Multimaterial#8
+		num positions      :  848
+		num normals        :  848
+		num tangents       :  0
+		num uvs            :  1696
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  463
+	processing begun of mesh:  MDMachineGhost
+		animation processing begun
+			processing action MDMachineAction.002:  in[-1 - 1220], out[0 - 1220]
+		processing begun of material:  KeyDoorMat
+		processing begun of material:  MachineShadowMat
+		registered as also a user of material:  KeyDoorMat
+		registered as also a user of material:  MachineShadowMat
+		processing begun of multimaterial:  HexRoom.Multimaterial#9
+		num positions      :  10
+		num normals        :  10
+		num tangents       :  0
+		num uvs            :  20
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  8
+	processing begun of mesh:  MDMachineWrong
+		animation processing begun
+			processing action MDMachineAction.004:  in[-1 - 1220], out[0 - 1220]
+		processing begun of material:  KeyDoorMat
+		processing begun of material:  MachineShadowMat
+		registered as also a user of material:  KeyDoorMat
+		registered as also a user of material:  MachineShadowMat
+		processing begun of multimaterial:  HexRoom.Multimaterial#10
+		num positions      :  10
+		num normals        :  10
+		num tangents       :  0
+		num uvs            :  20
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  8
+	processing begun of mesh:  HexRoomBase
+		processing begun of material:  BaseShadowBake
+		processing begun of material:  BlackMat
+			processing texture HexRoomBaseBakeNormal
+				texture type:  bumpTexture, mapped using: "JoinedBase"
+			processing texture HexRoomBaseShadowBake
+				texture type:  diffuseTexture, mapped using: "JoinedBase"
+		registered as also a user of material:  BlackMat
+		processing begun of multimaterial:  HexRoom.Multimaterial#11
+		num positions      :  772
+		num normals        :  772
+		num tangents       :  0
+		num uvs            :  1544
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  330
+	processing begun of mesh:  UCeilingHoleCover
+		processing begun of material:  Hall1Bake2Mat
+			processing texture HallBake1Normal
+				texture type:  bumpTexture, mapped using: "Joined"
+			processing texture Hall1Bake2
+				texture type:  diffuseTexture, mapped using: "Joined"
+		num positions      :  17
+		num normals        :  17
+		num tangents       :  0
+		num uvs            :  34
+		num uvs2           :  34
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  UComplexHallConnect1
+		processing begun of material:  ComplexHallLightMat
+		processing begun of material:  ConnectorBakeMap
+			processing texture ConnectorBake
+				texture type:  diffuseTexture, mapped using: "Joined"
+		processing begun of multimaterial:  HexRoom.Multimaterial#12
+		num positions      :  1708
+		num normals        :  1708
+		num tangents       :  0
+		num uvs            :  3416
+		num uvs2           :  3416
+		num colors         :  0
+		num triangles      :  852
+	processing begun of mesh:  UComplexHallConnectCross
+		processing begun of material:  ComplexHallLightMat
+		processing begun of material:  ConnectorBakeMap
+		registered as also a user of material:  ComplexHallLightMat
+		registered as also a user of material:  ConnectorBakeMap
+		processing begun of multimaterial:  HexRoom.Multimaterial#13
+		num positions      :  848
+		num normals        :  848
+		num tangents       :  0
+		num uvs            :  1696
+		num uvs2           :  1696
+		num colors         :  0
+		num triangles      :  340
+	processing begun of mesh:  UComplexHallConnectLeft
+		processing begun of material:  ComplexHallLightMat
+		processing begun of material:  ConnectorBakeMap
+		registered as also a user of material:  ComplexHallLightMat
+		registered as also a user of material:  ConnectorBakeMap
+		processing begun of multimaterial:  HexRoom.Multimaterial#14
+		num positions      :  1278
+		num normals        :  1278
+		num tangents       :  0
+		num uvs            :  2556
+		num uvs2           :  2556
+		num colors         :  0
+		num triangles      :  596
+	processing begun of mesh:  UComplexHallConnectRight
+		processing begun of material:  ComplexHallLightMat
+		processing begun of material:  ConnectorBakeMap
+		registered as also a user of material:  ComplexHallLightMat
+		registered as also a user of material:  ConnectorBakeMap
+		processing begun of multimaterial:  HexRoom.Multimaterial#15
+		num positions      :  1278
+		num normals        :  1278
+		num tangents       :  0
+		num uvs            :  2556
+		num uvs2           :  2556
+		num colors         :  0
+		num triangles      :  596
+	processing begun of mesh:  UComplexHallConnectStraight
+		processing begun of material:  ComplexHallLightMat
+		processing begun of material:  ConnectorBakeMap
+		registered as also a user of material:  ComplexHallLightMat
+		registered as also a user of material:  ConnectorBakeMap
+		processing begun of multimaterial:  HexRoom.Multimaterial#16
+		num positions      :  1278
+		num normals        :  1278
+		num tangents       :  0
+		num uvs            :  2556
+		num uvs2           :  2556
+		num colors         :  0
+		num triangles      :  596
+	processing begun of mesh:  UComplexHallConnectT
+		processing begun of material:  ComplexHallLightMat
+		processing begun of material:  ConnectorBakeMap
+		registered as also a user of material:  ComplexHallLightMat
+		registered as also a user of material:  ConnectorBakeMap
+		processing begun of multimaterial:  HexRoom.Multimaterial#17
+		num positions      :  1063
+		num normals        :  1063
+		num tangents       :  0
+		num uvs            :  2126
+		num uvs2           :  2126
+		num colors         :  0
+		num triangles      :  468
+	processing begun of mesh:  UComplexHallLamp1
+		processing begun of material:  BlueStainedMat
+		processing begun of material:  WoodBeamMat
+		processing begun of material:  OrangeWallMat
+		processing begun of material:  GreenCeilingMat.001
+		processing begun of material:  DiamondMat
+		processing begun of material:  GoldMat.001
+		processing begun of material:  WhiteFloorMat
+		processing begun of material:  ComplexHallMat
+		processing begun of material:  ComplexHallLightMat
+			processing texture FloorTilePedestalRoomGreenStained
+				texture type:  diffuseTexture, mapped using: "Joined"
+			processing texture WoodFloor
+				texture type:  diffuseTexture, mapped using: "Joined"
+			processing texture FloorTilePedestalRoomOrange
+				texture type:  diffuseTexture, mapped using: "Joined"
+			processing texture FloorTilePedestalRoomGreen
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture WhiteDiamond
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GoldColor
+				texture type:  diffuseTexture, mapped using: "Joined"
+			processing texture OracleScreenBW
+				texture type:  diffuseTexture, mapped using: "Joined"
+			processing texture ComplexHallBakeNormal
+				texture type:  bumpTexture, mapped using: "Joined"
+			processing texture ComplexHallBake
+				texture type:  diffuseTexture, mapped using: "Joined"
+		registered as also a user of material:  ComplexHallLightMat
+		processing begun of multimaterial:  HexRoom.Multimaterial#18
+		num positions      :  40
+		num normals        :  40
+		num tangents       :  0
+		num uvs            :  80
+		num uvs2           :  80
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  UComplexHallLamp2
+		processing begun of material:  BlueStainedMat
+		processing begun of material:  WoodBeamMat
+		processing begun of material:  OrangeWallMat
+		processing begun of material:  GreenCeilingMat.001
+		processing begun of material:  DiamondMat
+		processing begun of material:  GoldMat.001
+		processing begun of material:  WhiteFloorMat
+		processing begun of material:  ComplexHallMat
+		processing begun of material:  ComplexHallLightMat
+		registered as also a user of material:  BlueStainedMat
+		registered as also a user of material:  WoodBeamMat
+		registered as also a user of material:  OrangeWallMat
+		registered as also a user of material:  GreenCeilingMat.001
+		registered as also a user of material:  DiamondMat
+		registered as also a user of material:  GoldMat.001
+		registered as also a user of material:  WhiteFloorMat
+		registered as also a user of material:  ComplexHallMat
+		registered as also a user of material:  ComplexHallLightMat
+		processing begun of multimaterial:  HexRoom.Multimaterial#19
+		num positions      :  40
+		num normals        :  40
+		num tangents       :  0
+		num uvs            :  80
+		num uvs2           :  80
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  UComplexHallLamp3
+		processing begun of material:  BlueStainedMat
+		processing begun of material:  WoodBeamMat
+		processing begun of material:  OrangeWallMat
+		processing begun of material:  GreenCeilingMat.001
+		processing begun of material:  DiamondMat
+		processing begun of material:  GoldMat.001
+		processing begun of material:  WhiteFloorMat
+		processing begun of material:  ComplexHallMat
+		processing begun of material:  ComplexHallLightMat
+		registered as also a user of material:  BlueStainedMat
+		registered as also a user of material:  WoodBeamMat
+		registered as also a user of material:  OrangeWallMat
+		registered as also a user of material:  GreenCeilingMat.001
+		registered as also a user of material:  DiamondMat
+		registered as also a user of material:  GoldMat.001
+		registered as also a user of material:  WhiteFloorMat
+		registered as also a user of material:  ComplexHallMat
+		registered as also a user of material:  ComplexHallLightMat
+		processing begun of multimaterial:  HexRoom.Multimaterial#20
+		num positions      :  40
+		num normals        :  40
+		num tangents       :  0
+		num uvs            :  80
+		num uvs2           :  80
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  UComplexHallRoom
+		processing begun of material:  ComplexHallLightMat
+		processing begun of material:  ConnectorBakeMap
+		processing begun of material:  ConnectorRoomBakeMap
+		registered as also a user of material:  ComplexHallLightMat
+		registered as also a user of material:  ConnectorBakeMap
+			processing texture ConnectorRoomBake
+				texture type:  diffuseTexture, mapped using: "Joined"
+		processing begun of multimaterial:  HexRoom.Multimaterial#21
+		num positions      :  2615
+		num normals        :  2615
+		num tangents       :  0
+		num uvs            :  5230
+		num uvs2           :  5230
+		num colors         :  0
+		num triangles      :  1254
+		WARNING: # of 0 area faces found:  6
+	processing begun of mesh:  UComplexHallTemplate
+		WARNING: No materials have been assigned: 
+		num positions      :  161
+		num normals        :  161
+		num tangents       :  0
+		num uvs            :  322
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+	processing begun of mesh:  UComplexHallTemplate.001
+		processing begun of material:  CompHallMat
+			processing texture ComplexHallBake
+				texture type:  diffuseTexture, mapped using: "Joined"
+		num positions      :  6776
+		num normals        :  6776
+		num tangents       :  0
+		num uvs            :  13552
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3701
+		WARNING: # of 0 area faces found:  24
+	processing begun of mesh:  UComplexHallTemplate.003
+		processing begun of material:  CompHallMat
+		registered as also a user of material:  CompHallMat
+		num positions      :  6777
+		num normals        :  6777
+		num tangents       :  0
+		num uvs            :  13554
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3701
+		WARNING: # of 0 area faces found:  24
+	processing begun of mesh:  UComplexHallTemplate.004
+		processing begun of material:  CompHallMat
+		registered as also a user of material:  CompHallMat
+		num positions      :  6772
+		num normals        :  6772
+		num tangents       :  0
+		num uvs            :  13544
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3701
+		WARNING: # of 0 area faces found:  24
+	processing begun of mesh:  UDeadLightCover
+		processing begun of material:  Hall1Bake2Mat
+		registered as also a user of material:  Hall1Bake2Mat
+		num positions      :  12
+		num normals        :  12
+		num tangents       :  0
+		num uvs            :  24
+		num uvs2           :  24
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  UDeadLightWire
+		processing begun of material:  Hall1Bake2Mat
+		registered as also a user of material:  Hall1Bake2Mat
+		num positions      :  1357
+		num normals        :  1357
+		num tangents       :  0
+		num uvs            :  2714
+		num uvs2           :  2714
+		num colors         :  0
+		num triangles      :  552
+	processing begun of mesh:  UFirstRoom
+		processing begun of material:  FirstRoomShadowMat
+			processing texture FirstRoomShadowBake_hn
+				texture type:  bumpTexture, mapped using: "Joined4"
+			processing texture FirstRoomShadowBake
+				texture type:  diffuseTexture, mapped using: "Joined4"
+		num positions      :  1759
+		num normals        :  1759
+		num tangents       :  0
+		num uvs            :  3518
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  924
+		WARNING: # of 0 area faces found:  52
+	processing begun of mesh:  UHiddenDoor
+		processing begun of material:  Hall1Bake2Mat
+		registered as also a user of material:  Hall1Bake2Mat
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  32
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  ULadder
+		processing begun of material:  LadderMat
+		processing begun of material:  LadderBakeMat
+			processing texture LadderBake
+				texture type:  diffuseTexture, mapped using: "LadderMap"
+			processing texture LadderBake
+				texture type:  diffuseTexture, mapped using: "LadderMap"
+		processing begun of multimaterial:  HexRoom.Multimaterial#22
+		num positions      :  1676
+		num normals        :  1676
+		num tangents       :  0
+		num uvs            :  3352
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  894
+	processing begun of mesh:  UBrokenStick
+		processing begun of material:  BrokenBeamMat
+			processing texture FrontWallShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  630
+		num normals        :  630
+		num tangents       :  0
+		num uvs            :  1260
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  220
+	processing begun of mesh:  ULightBox
+		processing begun of material:  LampMat.001
+			processing texture FrontWallShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  227
+		num normals        :  227
+		num tangents       :  0
+		num uvs            :  454
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  ULightBox2
+		processing begun of material:  LampMat.001
+		registered as also a user of material:  LampMat.001
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  60
+	processing begun of mesh:  UPaintCan
+		processing begun of material:  GrosteBakeMat
+			processing texture GrosteBakeShadow
+				texture type:  diffuseTexture, mapped using: "BakeMap"
+		num positions      :  1047
+		num normals        :  1047
+		num tangents       :  0
+		num uvs            :  2094
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  444
+	processing begun of mesh:  URubbleFrontWall
+		processing begun of material:  BrokenBricks
+			processing texture FrontWallShadowBake
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1520
+		num normals        :  1520
+		num tangents       :  0
+		num uvs            :  3040
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  648
+	processing begun of mesh:  USign
+		processing begun of material:  UnderConstructMat
+			processing texture UnderConstruction
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1656
+		num normals        :  1656
+		num tangents       :  0
+		num uvs            :  3312
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  572
+	processing begun of mesh:  USparkSource
+		processing begun of material:  Hall1Bake2Mat.001
+			processing texture HallBake1Normal
+				texture type:  bumpTexture, mapped using: "Joined"
+			processing texture Hall1Bake2
+				texture type:  diffuseTexture, mapped using: "Joined"
+		num positions      :  55
+		num normals        :  55
+		num tangents       :  0
+		num uvs            :  110
+		num uvs2           :  110
+		num colors         :  0
+		num triangles      :  28
+	processing begun of mesh:  UrbexHallAndFloor
+		processing begun of material:  ComplexFirstBakeMat
+			processing texture ComplexFirstBake
+				texture type:  diffuseTexture, mapped using: "ComplexFirstJoined"
+		num positions      :  1737
+		num normals        :  1737
+		num tangents       :  0
+		num uvs            :  3474
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  692
+		WARNING: # of 0 area faces found:  14
+	processing begun of mesh:  UrbexHallWall1
+		processing begun of material:  Hall1Bake2Mat.001
+		registered as also a user of material:  Hall1Bake2Mat.001
+		num positions      :  7
+		num normals        :  7
+		num tangents       :  0
+		num uvs            :  14
+		num uvs2           :  14
+		num colors         :  0
+		num triangles      :  5
+	processing begun of mesh:  UrbexHallWall2
+		processing begun of material:  Hall1Bake2Mat.001
+		registered as also a user of material:  Hall1Bake2Mat.001
+		num positions      :  104
+		num normals        :  104
+		num tangents       :  0
+		num uvs            :  208
+		num uvs2           :  208
+		num colors         :  0
+		num triangles      :  82
+	processing begun of mesh:  UWallBackground
+		processing begun of material:  Hall1Bake2Mat.001
+		registered as also a user of material:  Hall1Bake2Mat.001
+		num positions      :  5181
+		num normals        :  5181
+		num tangents       :  0
+		num uvs            :  10362
+		num uvs2           :  10362
+		num colors         :  0
+		num triangles      :  2436
+	processing begun of mesh:  UWallBackground.001
+		processing begun of material:  FrontWallBakeMat
+			processing texture FrontWallBake_hn
+				texture type:  bumpTexture, mapped using: "Joined2"
+			processing texture FrontWallShadowBake
+				texture type:  diffuseTexture, mapped using: "Joined2"
+		num positions      :  801
+		num normals        :  801
+		num tangents       :  0
+		num uvs            :  1602
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  368
+	processing begun of mesh:  UWheelbarrow
+		processing begun of material:  WheelbarrowBakeMat
+			processing texture WheelbarrowBake
+				texture type:  diffuseTexture, mapped using: "Joined"
+		num positions      :  5983
+		num normals        :  5983
+		num tangents       :  0
+		num uvs            :  11966
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2354
+		WARNING: # of 0 area faces found:  16
+	processing begun of mesh:  DoorFirstRoom
+		animation processing begun
+			processing action DoorFirstRoomAction:  in[0 - 1300], out[0 - 1300]
+		processing begun of material:  UrbexRoomMat
+		processing begun of material:  ScreenshotMat
+			processing texture Hall1Bake2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture ScreenshotUnderConstructionFinal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  HexRoom.Multimaterial#23
+		num positions      :  426
+		num normals        :  426
+		num tangents       :  0
+		num uvs            :  852
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  186
+	processing begun of mesh:  DoorHall
+		processing begun of material:  DoorFirstHall
+			processing texture Hall1Bake2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1866
+		num normals        :  1866
+		num tangents       :  0
+		num uvs            :  3732
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  884
+		WARNING: # of 0 area faces found:  16
+	processing begun of light (HEMI FROM AREA):  Light
+	processing begun of light (DIRECTIONAL):  Sun
+========= Writing of JSON file started =========
+	writing mesh:  HexRoom
+	writing mesh:  BrickWall
+	writing mesh:  Dome
+	writing mesh:  HexRoomScreenLeft
+	writing mesh:  Screen
+	writing mesh:  HexRoomScreenRight
+	writing mesh:  BracketLeft
+	writing mesh:  BracketRight
+	writing mesh:  MDMachine
+	writing mesh:  MDCage
+	writing mesh:  MDObjectBox
+	writing mesh:  MDLeftPanel
+	writing mesh:  MDRightPanel
+	writing mesh:  KeyCompartDoor
+	writing mesh:  MDParent
+	writing mesh:  ResultInfoScreenParent
+	writing mesh:  ScrambleObject1
+	writing mesh:  ScrambleObject2
+	writing mesh:  MDBookParent
+	writing mesh:  Flashlight
+	writing mesh:  DoorCenter
+	writing mesh:  MDMachineGhost
+	writing mesh:  MDMachineWrong
+	writing mesh:  HexRoomBase
+	writing mesh:  UCeilingHoleCover
+	writing mesh:  UComplexHallConnect1
+	writing mesh:  UComplexHallConnectCross
+	writing mesh:  UComplexHallConnectLeft
+	writing mesh:  UComplexHallConnectRight
+	writing mesh:  UComplexHallConnectStraight
+	writing mesh:  UComplexHallConnectT
+	writing mesh:  UComplexHallLamp1
+	writing mesh:  UComplexHallLamp2
+	writing mesh:  UComplexHallLamp3
+	writing mesh:  UComplexHallRoom
+	writing mesh:  UComplexHallTemplate
+	writing mesh:  UComplexHallTemplate.001
+	writing mesh:  UComplexHallTemplate.003
+	writing mesh:  UComplexHallTemplate.004
+	writing mesh:  UDeadLightCover
+	writing mesh:  UDeadLightWire
+	writing mesh:  UFirstRoom
+	writing mesh:  UHiddenDoor
+	writing mesh:  ULadder
+	writing mesh:  UBrokenStick
+	writing mesh:  ULightBox
+	writing mesh:  ULightBox2
+	writing mesh:  UPaintCan
+	writing mesh:  URubbleFrontWall
+	writing mesh:  USign
+	writing mesh:  USparkSource
+	writing mesh:  UrbexHallAndFloor
+	writing mesh:  UrbexHallWall1
+	writing mesh:  UrbexHallWall2
+	writing mesh:  UWallBackground
+	writing mesh:  UWallBackground.001
+	writing mesh:  UWheelbarrow
+	writing mesh:  DoorFirstRoom
+	writing mesh:  DoorHall
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 8.9461 secs
