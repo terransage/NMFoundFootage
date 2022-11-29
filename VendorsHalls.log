@@ -1,0 +1,307 @@
+Exporter version: 2.93.4, Blender version: 2.93.5
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Ken\Documents\My Web Sites\Hidden\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  VenorsHalls
+		processing begun of material:  CeilingShadowMat
+			processing texture CeilingBakeNormal
+				texture type:  bumpTexture, mapped using: "Joined3"
+			processing texture CeilingBakeShadow
+				texture type:  diffuseTexture, mapped using: "Joined3"
+		num positions      :  386
+		num normals        :  386
+		num tangents       :  0
+		num uvs            :  772
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  184
+	processing begun of mesh:  Doorframe1
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+			processing texture castle25doorframetexture
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture castle25doorframetexture
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			processing texture TerranPanelDiamond
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#0
+		num positions      :  330
+		num normals        :  330
+		num tangents       :  0
+		num uvs            :  660
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  Doorframe1.001
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  DiamondMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#1
+		num positions      :  333
+		num normals        :  333
+		num tangents       :  0
+		num uvs            :  666
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  Doorframe1.002
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  DiamondMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#2
+		num positions      :  331
+		num normals        :  331
+		num tangents       :  0
+		num uvs            :  662
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  Doorframe1.003
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  DiamondMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#3
+		num positions      :  330
+		num normals        :  330
+		num tangents       :  0
+		num uvs            :  660
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  Doorframe1.004
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  DiamondMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#4
+		num positions      :  330
+		num normals        :  330
+		num tangents       :  0
+		num uvs            :  660
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  Doorframe1.005
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  DiamondMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#5
+		num positions      :  331
+		num normals        :  331
+		num tangents       :  0
+		num uvs            :  662
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  Doorframe1.006
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  DiamondMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#6
+		num positions      :  332
+		num normals        :  332
+		num tangents       :  0
+		num uvs            :  664
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  Doorframe1.007
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  DiamondMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#7
+		num positions      :  331
+		num normals        :  331
+		num tangents       :  0
+		num uvs            :  662
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  Doorframe1.008
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  DiamondMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#8
+		num positions      :  330
+		num normals        :  330
+		num tangents       :  0
+		num uvs            :  660
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  Doorframe1.009
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  DiamondMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#9
+		num positions      :  1361
+		num normals        :  1361
+		num tangents       :  0
+		num uvs            :  2722
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  554
+	processing begun of mesh:  Doorframe1.010
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  DiamondMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#10
+		num positions      :  331
+		num normals        :  331
+		num tangents       :  0
+		num uvs            :  662
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  IcoLamp
+		processing begun of material:  LampBeamMat
+		processing begun of material:  HallsLampMat
+			processing texture TexturesComBronzeBeaten
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#11
+		num positions      :  1211
+		num normals        :  1211
+		num tangents       :  0
+		num uvs            :  2422
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  436
+	processing begun of mesh:  IcoLamp.001
+		processing begun of material:  LampBeamMat
+		processing begun of material:  HallsLampMat
+		registered as also a user of material:  LampBeamMat
+		registered as also a user of material:  HallsLampMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#12
+		num positions      :  1213
+		num normals        :  1213
+		num tangents       :  0
+		num uvs            :  2426
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  436
+	processing begun of mesh:  IcoLamp.002
+		processing begun of material:  LampBeamMat
+		processing begun of material:  HallsLampMat
+		registered as also a user of material:  LampBeamMat
+		registered as also a user of material:  HallsLampMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#13
+		num positions      :  1212
+		num normals        :  1212
+		num tangents       :  0
+		num uvs            :  2424
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  436
+	processing begun of mesh:  IcoLamp.003
+		processing begun of material:  LampBeamMat
+		processing begun of material:  HallsLampMat
+		registered as also a user of material:  LampBeamMat
+		registered as also a user of material:  HallsLampMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#14
+		num positions      :  1211
+		num normals        :  1211
+		num tangents       :  0
+		num uvs            :  2422
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  436
+	processing begun of mesh:  VenorsHalls.001
+		processing begun of material:  HallsBakeShadowMat
+			processing texture VendorsHallsBake3Normal
+				texture type:  bumpTexture, mapped using: "Joined2"
+			processing texture VendorsHallsBakeShadow2
+				texture type:  diffuseTexture, mapped using: "Joined2"
+		num positions      :  1391
+		num normals        :  1391
+		num tangents       :  0
+		num uvs            :  2782
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  724
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  IcoLamp.004
+		processing begun of material:  LampBeamMat
+		processing begun of material:  HallsLampMat
+		registered as also a user of material:  LampBeamMat
+		registered as also a user of material:  HallsLampMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#15
+		num positions      :  1220
+		num normals        :  1220
+		num tangents       :  0
+		num uvs            :  2440
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  436
+	processing begun of mesh:  IcoLamp.005
+		processing begun of material:  LampBeamMat
+		processing begun of material:  HallsLampMat
+		registered as also a user of material:  LampBeamMat
+		registered as also a user of material:  HallsLampMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#16
+		num positions      :  1214
+		num normals        :  1214
+		num tangents       :  0
+		num uvs            :  2428
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  436
+	processing begun of mesh:  SpellingGalleryDoor
+		processing begun of material:  SpellingGalleryMat
+			processing texture SpellingGalleryDoorImage
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  571
+		num normals        :  571
+		num tangents       :  0
+		num uvs            :  1142
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  240
+	processing begun of light (POINT):  Light
+	processing begun of light (POINT):  Light.001
+	processing begun of light (POINT):  Light.002
+	processing begun of light (POINT):  Light.003
+	processing begun of light (POINT):  Light.004
+	processing begun of light (POINT):  Light.005
+========= Writing of JSON file started =========
+	writing mesh:  VenorsHalls
+	writing mesh:  Doorframe1
+	writing mesh:  Doorframe1.001
+	writing mesh:  Doorframe1.002
+	writing mesh:  Doorframe1.003
+	writing mesh:  Doorframe1.004
+	writing mesh:  Doorframe1.005
+	writing mesh:  Doorframe1.006
+	writing mesh:  Doorframe1.007
+	writing mesh:  Doorframe1.008
+	writing mesh:  Doorframe1.009
+	writing mesh:  Doorframe1.010
+	writing mesh:  IcoLamp
+	writing mesh:  IcoLamp.001
+	writing mesh:  IcoLamp.002
+	writing mesh:  IcoLamp.003
+	writing mesh:  VenorsHalls.001
+	writing mesh:  IcoLamp.004
+	writing mesh:  IcoLamp.005
+	writing mesh:  SpellingGalleryDoor
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.1262 secs
