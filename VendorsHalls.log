@@ -204,10 +204,10 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		registered as also a user of material:  LampBeamMat
 		registered as also a user of material:  HallsLampMat
 		processing begun of multimaterial:  VendorsHalls.Multimaterial#13
-		num positions      :  1212
-		num normals        :  1212
+		num positions      :  1213
+		num normals        :  1213
 		num tangents       :  0
-		num uvs            :  2424
+		num uvs            :  2426
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  436
@@ -230,13 +230,13 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 				texture type:  bumpTexture, mapped using: "Joined2"
 			processing texture VendorsHallsBakeShadow2
 				texture type:  diffuseTexture, mapped using: "Joined2"
-		num positions      :  1391
-		num normals        :  1391
+		num positions      :  1745
+		num normals        :  1745
 		num tangents       :  0
-		num uvs            :  2782
+		num uvs            :  3490
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  724
+		num triangles      :  916
 		WARNING: # of 0 area faces found:  10
 	processing begun of mesh:  IcoLamp.004
 		processing begun of material:  LampBeamMat
@@ -275,6 +275,367 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  240
+	processing begun of mesh:  GTA
+		animation processing begun
+			processing action GTAAction:  in[0 - 100], out[0 - 100]
+		processing begun of material:  GTAMat
+		processing begun of material:  GTAOriginMat
+			processing texture GTTabletAStoneNormal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture GTTabletAStone
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletA
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletA
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#17
+		num positions      :  187
+		num normals        :  187
+		num tangents       :  0
+		num uvs            :  374
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  GTS
+		animation processing begun
+			processing action GTSAction:  in[0 - 100], out[0 - 100]
+		processing begun of material:  GTSMat
+		processing begun of material:  GTSOriginMat
+			processing texture GTTabletSStoneNormal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture GTTabletSStone
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletS
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletS
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#18
+		num positions      :  187
+		num normals        :  187
+		num tangents       :  0
+		num uvs            :  374
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  GTU
+		animation processing begun
+			processing action GTUAction:  in[0 - 100], out[0 - 100]
+		processing begun of material:  GTUMat
+		processing begun of material:  GTUOriginMat
+			processing texture GTTabletUStoneNormal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture GTTabletUStone
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletU
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletU
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#19
+		num positions      :  187
+		num normals        :  187
+		num tangents       :  0
+		num uvs            :  374
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  GTN
+		animation processing begun
+			processing action GTNAction:  in[0 - 100], out[0 - 100]
+		processing begun of material:  GTNMat
+		processing begun of material:  GTNOriginMat
+			processing texture GTTabletNStoneNormal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture GTTabletNStone
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletN
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletN
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#20
+		num positions      :  187
+		num normals        :  187
+		num tangents       :  0
+		num uvs            :  374
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  GTD
+		animation processing begun
+			processing action GTDAction:  in[0 - 100], out[0 - 100]
+		processing begun of material:  GTDMat
+		processing begun of material:  GTDOriginMat
+			processing texture GTTabletDStoneNormal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture GTTabletDStone
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletD
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletD
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#21
+		num positions      :  187
+		num normals        :  187
+		num tangents       :  0
+		num uvs            :  374
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  GTR
+		animation processing begun
+			processing action GTRAction:  in[0 - 100], out[0 - 100]
+		processing begun of material:  GTRMat
+		processing begun of material:  GTROriginMat
+			processing texture GTTabletRStoneNormal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture GTTabletRStone
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletR
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletR
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#22
+		num positions      :  187
+		num normals        :  187
+		num tangents       :  0
+		num uvs            :  374
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  GTE
+		animation processing begun
+			processing action GTEAction:  in[0 - 100], out[0 - 100]
+		processing begun of material:  GTEMat
+		processing begun of material:  GTEOriginMat
+			processing texture GTTabletEStoneNormal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture GTTabletEStone
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletE
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture GTTabletE
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#23
+		num positions      :  187
+		num normals        :  187
+		num tangents       :  0
+		num uvs            :  374
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  ArrowA1
+		animation processing begun
+			processing action ArrowA1Action.001:  in[1 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  262
+		num normals        :  262
+		num tangents       :  0
+		num uvs            :  524
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+	processing begun of mesh:  ArrowA2
+		animation processing begun
+			processing action ArrowA2Action.001:  in[1 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  263
+		num normals        :  263
+		num tangents       :  0
+		num uvs            :  526
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+	processing begun of mesh:  ArrowA3
+		animation processing begun
+			processing action ArrowA3Action:  in[1 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  261
+		num normals        :  261
+		num tangents       :  0
+		num uvs            :  522
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+	processing begun of mesh:  Button1Holder
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  950
+		num normals        :  950
+		num tangents       :  0
+		num uvs            :  1900
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  354
+	processing begun of mesh:  Button1
+		processing begun of material:  Button1Mat
+			processing texture VHButton1Text
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  SpellingGalleryCenter
+		animation processing begun
+			processing action SpellingGalleryCenterAction:  in[1 - 100], out[0 - 100]
+		processing begun of material:  SpellGallCentMat
+			processing texture SpellingGallCenter
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  334
+		num normals        :  334
+		num tangents       :  0
+		num uvs            :  668
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  144
+	processing begun of mesh:  SGC
+		animation processing begun
+			processing action SpellingGalleryCenterAction.004:  in[1 - 100], out[0 - 100]
+		processing begun of material:  SpellGallCentMat
+		registered as also a user of material:  SpellGallCentMat
+		num positions      :  334
+		num normals        :  334
+		num tangents       :  0
+		num uvs            :  668
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  144
+	processing begun of mesh:  CeilingPointer
+		animation processing begun
+			processing action CeilingPointerAction:  in[0 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  142
+		num normals        :  142
+		num tangents       :  0
+		num uvs            :  284
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  CeilingPointer2
+		animation processing begun
+			processing action CeilingPointer2Action:  in[1 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  142
+		num normals        :  142
+		num tangents       :  0
+		num uvs            :  284
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  CeilingPointer3
+		animation processing begun
+			processing action CeilingPointer3Action:  in[1 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  142
+		num normals        :  142
+		num tangents       :  0
+		num uvs            :  284
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  CeilingPointer4
+		animation processing begun
+			processing action CeilingPointer4Action:  in[1 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  142
+		num normals        :  142
+		num tangents       :  0
+		num uvs            :  284
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  CeilingPointer5
+		animation processing begun
+			processing action CeilingPointer5Action:  in[1 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  142
+		num normals        :  142
+		num tangents       :  0
+		num uvs            :  284
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  CeilingPointer6
+		animation processing begun
+			processing action CeilingPointer6Action:  in[1 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  142
+		num normals        :  142
+		num tangents       :  0
+		num uvs            :  284
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  CeilingPointer7
+		animation processing begun
+			processing action CeilingPointer7Action:  in[1 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  142
+		num normals        :  142
+		num tangents       :  0
+		num uvs            :  284
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  CeilingPointer8
+		animation processing begun
+			processing action CeilingPointer8Action:  in[1 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  142
+		num normals        :  142
+		num tangents       :  0
+		num uvs            :  284
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  CeilingPointer9
+		animation processing begun
+			processing action CeilingPointer9Action:  in[1 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  142
+		num normals        :  142
+		num tangents       :  0
+		num uvs            :  284
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  CeilingPointer10
+		animation processing begun
+			processing action CeilingPointer10Action:  in[1 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  142
+		num normals        :  142
+		num tangents       :  0
+		num uvs            :  284
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  StandMessage
+		animation processing begun
+			processing action StandMessageAction:  in[1 - 100], out[0 - 100]
+		processing begun of material:  HallsBakeShadowMat
+		registered as also a user of material:  HallsBakeShadowMat
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
 	processing begun of light (POINT):  Light
 	processing begun of light (POINT):  Light.001
 	processing begun of light (POINT):  Light.002
@@ -302,6 +663,31 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  IcoLamp.004
 	writing mesh:  IcoLamp.005
 	writing mesh:  SpellingGalleryDoor
+	writing mesh:  GTA
+	writing mesh:  GTS
+	writing mesh:  GTU
+	writing mesh:  GTN
+	writing mesh:  GTD
+	writing mesh:  GTR
+	writing mesh:  GTE
+	writing mesh:  ArrowA1
+	writing mesh:  ArrowA2
+	writing mesh:  ArrowA3
+	writing mesh:  Button1Holder
+	writing mesh:  Button1
+	writing mesh:  SpellingGalleryCenter
+	writing mesh:  SGC
+	writing mesh:  CeilingPointer
+	writing mesh:  CeilingPointer2
+	writing mesh:  CeilingPointer3
+	writing mesh:  CeilingPointer4
+	writing mesh:  CeilingPointer5
+	writing mesh:  CeilingPointer6
+	writing mesh:  CeilingPointer7
+	writing mesh:  CeilingPointer8
+	writing mesh:  CeilingPointer9
+	writing mesh:  CeilingPointer10
+	writing mesh:  StandMessage
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.1262 secs
+elapsed time:  0 min, 2.1851 secs
