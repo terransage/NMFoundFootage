@@ -217,10 +217,10 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		registered as also a user of material:  LampBeamMat
 		registered as also a user of material:  HallsLampMat
 		processing begun of multimaterial:  VendorsHalls.Multimaterial#14
-		num positions      :  1211
-		num normals        :  1211
+		num positions      :  1212
+		num normals        :  1212
 		num tangents       :  0
-		num uvs            :  2422
+		num uvs            :  2424
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  436
@@ -636,6 +636,56 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  12
+	processing begun of mesh:  ButtonChestClicked1
+		processing begun of material:  HallsBakeShadowMat
+		registered as also a user of material:  HallsBakeShadowMat
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  ButtonChestClicked2
+		processing begun of material:  HallsBakeShadowMat
+		registered as also a user of material:  HallsBakeShadowMat
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  ButtonChestClicked3
+		processing begun of material:  HallsBakeShadowMat
+		registered as also a user of material:  HallsBakeShadowMat
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  ButtonChestClicked4
+		processing begun of material:  HallsBakeShadowMat
+		registered as also a user of material:  HallsBakeShadowMat
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  ChestRoomPlatform
+		processing begun of material:  HallsBakeShadowMat
+		registered as also a user of material:  HallsBakeShadowMat
+		num positions      :  486
+		num normals        :  486
+		num tangents       :  0
+		num uvs            :  972
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  230
 	processing begun of light (POINT):  Light
 	processing begun of light (POINT):  Light.001
 	processing begun of light (POINT):  Light.002
@@ -688,6 +738,11 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  CeilingPointer9
 	writing mesh:  CeilingPointer10
 	writing mesh:  StandMessage
+	writing mesh:  ButtonChestClicked1
+	writing mesh:  ButtonChestClicked2
+	writing mesh:  ButtonChestClicked3
+	writing mesh:  ButtonChestClicked4
+	writing mesh:  ChestRoomPlatform
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.1851 secs
+elapsed time:  0 min, 2.4524 secs
