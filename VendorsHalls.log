@@ -770,10 +770,10 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	processing begun of mesh:  VenorsHallsStructure
 		processing begun of material:  CeilingShadowMat
 		registered as also a user of material:  CeilingShadowMat
-		num positions      :  1314
-		num normals        :  1314
+		num positions      :  1310
+		num normals        :  1310
 		num tangents       :  0
-		num uvs            :  2628
+		num uvs            :  2620
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  676
@@ -843,4 +843,4 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  VenorsHallsStructure
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.1867 secs
+elapsed time:  0 min, 4.998 secs
