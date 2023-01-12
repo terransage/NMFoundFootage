@@ -768,8 +768,6 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num colors         :  0
 		num triangles      :  28
 	processing begun of mesh:  VenorsHallsStructure
-		animation processing begun
-			processing action VenorsHallsStructureAction:  in[0 - 200], out[0 - 200]
 		processing begun of material:  CeilingShadowMat
 		registered as also a user of material:  CeilingShadowMat
 		num positions      :  1314
@@ -845,4 +843,4 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  VenorsHallsStructure
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 4.0669 secs
+elapsed time:  0 min, 3.822 secs
