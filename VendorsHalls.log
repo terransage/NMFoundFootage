@@ -18,13 +18,13 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 				texture type:  bumpTexture, mapped using: "Joined3"
 			processing texture CeilingBakeShadow
 				texture type:  diffuseTexture, mapped using: "Joined3"
-		num positions      :  386
-		num normals        :  386
+		num positions      :  1763
+		num normals        :  1763
 		num tangents       :  0
-		num uvs            :  772
+		num uvs            :  3526
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  184
+		num triangles      :  764
 	processing begun of mesh:  Doorframe1
 		processing begun of material:  DoorframeMat
 		processing begun of material:  DiamondMat
@@ -152,13 +152,13 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		registered as also a user of material:  DoorframeMat
 		registered as also a user of material:  DiamondMat
 		processing begun of multimaterial:  VendorsHalls.Multimaterial#9
-		num positions      :  1361
-		num normals        :  1361
+		num positions      :  960
+		num normals        :  960
 		num tangents       :  0
-		num uvs            :  2722
+		num uvs            :  1920
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  554
+		num triangles      :  410
 	processing begun of mesh:  Doorframe1.010
 		processing begun of material:  DoorframeMat
 		processing begun of material:  DiamondMat
@@ -230,13 +230,13 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 				texture type:  bumpTexture, mapped using: "Joined2"
 			processing texture VendorsHallsBakeShadow2
 				texture type:  diffuseTexture, mapped using: "Joined2"
-		num positions      :  1745
-		num normals        :  1745
+		num positions      :  2143
+		num normals        :  2143
 		num tangents       :  0
-		num uvs            :  3490
+		num uvs            :  4286
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  916
+		num triangles      :  1114
 		WARNING: # of 0 area faces found:  10
 	processing begun of mesh:  IcoLamp.004
 		processing begun of material:  LampBeamMat
@@ -506,7 +506,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  144
 	processing begun of mesh:  CeilingPointer
 		animation processing begun
-			processing action CeilingPointerAction:  in[0 - 100], out[0 - 100]
+			processing action CeilingPointerAction:  in[0 - 200], out[0 - 200]
 		processing begun of material:  DoorframeMat
 		registered as also a user of material:  DoorframeMat
 		num positions      :  142
@@ -518,7 +518,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  68
 	processing begun of mesh:  CeilingPointer2
 		animation processing begun
-			processing action CeilingPointer2Action:  in[1 - 100], out[0 - 100]
+			processing action CeilingPointer2Action:  in[1 - 200], out[0 - 200]
 		processing begun of material:  DoorframeMat
 		registered as also a user of material:  DoorframeMat
 		num positions      :  142
@@ -530,7 +530,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  68
 	processing begun of mesh:  CeilingPointer3
 		animation processing begun
-			processing action CeilingPointer3Action:  in[1 - 100], out[0 - 100]
+			processing action CeilingPointer3Action:  in[1 - 200], out[0 - 200]
 		processing begun of material:  DoorframeMat
 		registered as also a user of material:  DoorframeMat
 		num positions      :  142
@@ -542,7 +542,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  68
 	processing begun of mesh:  CeilingPointer4
 		animation processing begun
-			processing action CeilingPointer4Action:  in[1 - 100], out[0 - 100]
+			processing action CeilingPointer4Action:  in[1 - 200], out[0 - 200]
 		processing begun of material:  DoorframeMat
 		registered as also a user of material:  DoorframeMat
 		num positions      :  142
@@ -554,7 +554,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  68
 	processing begun of mesh:  CeilingPointer5
 		animation processing begun
-			processing action CeilingPointer5Action:  in[1 - 100], out[0 - 100]
+			processing action CeilingPointer5Action:  in[1 - 200], out[0 - 200]
 		processing begun of material:  DoorframeMat
 		registered as also a user of material:  DoorframeMat
 		num positions      :  142
@@ -566,7 +566,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  68
 	processing begun of mesh:  CeilingPointer6
 		animation processing begun
-			processing action CeilingPointer6Action:  in[1 - 100], out[0 - 100]
+			processing action CeilingPointer6Action:  in[1 - 200], out[0 - 200]
 		processing begun of material:  DoorframeMat
 		registered as also a user of material:  DoorframeMat
 		num positions      :  142
@@ -578,7 +578,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  68
 	processing begun of mesh:  CeilingPointer7
 		animation processing begun
-			processing action CeilingPointer7Action:  in[1 - 100], out[0 - 100]
+			processing action CeilingPointer7Action:  in[1 - 200], out[0 - 200]
 		processing begun of material:  DoorframeMat
 		registered as also a user of material:  DoorframeMat
 		num positions      :  142
@@ -590,7 +590,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  68
 	processing begun of mesh:  CeilingPointer8
 		animation processing begun
-			processing action CeilingPointer8Action:  in[1 - 100], out[0 - 100]
+			processing action CeilingPointer8Action:  in[1 - 200], out[0 - 200]
 		processing begun of material:  DoorframeMat
 		registered as also a user of material:  DoorframeMat
 		num positions      :  142
@@ -602,7 +602,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  68
 	processing begun of mesh:  CeilingPointer9
 		animation processing begun
-			processing action CeilingPointer9Action:  in[1 - 100], out[0 - 100]
+			processing action CeilingPointer9Action:  in[1 - 200], out[0 - 200]
 		processing begun of material:  DoorframeMat
 		registered as also a user of material:  DoorframeMat
 		num positions      :  142
@@ -614,7 +614,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  68
 	processing begun of mesh:  CeilingPointer10
 		animation processing begun
-			processing action CeilingPointer10Action:  in[1 - 100], out[0 - 100]
+			processing action CeilingPointer10Action:  in[1 - 200], out[0 - 200]
 		processing begun of material:  DoorframeMat
 		registered as also a user of material:  DoorframeMat
 		num positions      :  142
@@ -677,6 +677,8 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num colors         :  0
 		num triangles      :  6
 	processing begun of mesh:  ChestRoomPlatform
+		animation processing begun
+			processing action ChestRoomPlatformAction.002:  in[1 - 100], out[0 - 100]
 		processing begun of material:  HallsBakeShadowMat
 		registered as also a user of material:  HallsBakeShadowMat
 		num positions      :  486
@@ -686,6 +688,97 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  230
+	processing begun of mesh:  WallCross
+		animation processing begun
+			processing action WallCrossAction:  in[1 - 100], out[0 - 100]
+		processing begun of material:  HallsBakeShadowMat
+		registered as also a user of material:  HallsBakeShadowMat
+		num positions      :  119
+		num normals        :  119
+		num tangents       :  0
+		num uvs            :  238
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  WallCrossCenter
+		animation processing begun
+			processing action WallCrossCenterAction:  in[1 - 100], out[0 - 100]
+		processing begun of material:  HallsBakeShadowMat
+		registered as also a user of material:  HallsBakeShadowMat
+		num positions      :  86
+		num normals        :  86
+		num tangents       :  0
+		num uvs            :  172
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  FinalDoorRiser
+		animation processing begun
+			processing action Doorframe1.011Action:  in[1 - 200], out[0 - 200]
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  DiamondMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#24
+		num positions      :  542
+		num normals        :  542
+		num tangents       :  0
+		num uvs            :  1084
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  200
+	processing begun of mesh:  FinalDoor
+		animation processing begun
+			processing action FinalDoorAction:  in[1 - 200], out[0 - 200]
+		processing begun of material:  HallsBakeShadowMat
+		registered as also a user of material:  HallsBakeShadowMat
+		num positions      :  118
+		num normals        :  118
+		num tangents       :  0
+		num uvs            :  236
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  WallCrossPedestal
+		animation processing begun
+			processing action WallCrossPedestalAction:  in[0 - 200], out[0 - 200]
+		processing begun of material:  HallsBakeShadowMat
+		registered as also a user of material:  HallsBakeShadowMat
+		num positions      :  676
+		num normals        :  676
+		num tangents       :  0
+		num uvs            :  1352
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  272
+		WARNING: # of 0 area faces found:  24
+	processing begun of mesh:  FinalDoorKey
+		animation processing begun
+			processing action FinalDoorKeyAction:  in[1 - 200], out[0 - 200]
+		processing begun of material:  DoorframeMat
+		processing begun of material:  DiamondMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  DiamondMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#25
+		num positions      :  64
+		num normals        :  64
+		num tangents       :  0
+		num uvs            :  128
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of mesh:  VenorsHallsStructure
+		animation processing begun
+			processing action VenorsHallsStructureAction:  in[0 - 200], out[0 - 200]
+		processing begun of material:  CeilingShadowMat
+		registered as also a user of material:  CeilingShadowMat
+		num positions      :  1314
+		num normals        :  1314
+		num tangents       :  0
+		num uvs            :  2628
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  676
 	processing begun of light (POINT):  Light
 	processing begun of light (POINT):  Light.001
 	processing begun of light (POINT):  Light.002
@@ -743,6 +836,13 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  ButtonChestClicked3
 	writing mesh:  ButtonChestClicked4
 	writing mesh:  ChestRoomPlatform
+	writing mesh:  WallCross
+	writing mesh:  WallCrossCenter
+	writing mesh:  FinalDoorRiser
+	writing mesh:  FinalDoor
+	writing mesh:  WallCrossPedestal
+	writing mesh:  FinalDoorKey
+	writing mesh:  VenorsHallsStructure
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.9688 secs
+elapsed time:  0 min, 4.0669 secs
