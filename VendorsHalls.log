@@ -802,8 +802,6 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num colors         :  0
 		num triangles      :  26
 	processing begun of mesh:  WallCrossFrameMachine
-		animation processing begun
-			processing action WallCrossFrameMachineAction:  in[0 - 100], out[0 - 100]
 		processing begun of material:  DoorframeMat
 		processing begun of material:  AsunderMat
 		registered as also a user of material:  DoorframeMat
@@ -1107,4 +1105,4 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  AsunderWrong
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.7679 secs
+elapsed time:  0 min, 3.4642 secs
