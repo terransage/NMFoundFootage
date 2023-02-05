@@ -14,14 +14,14 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	WARNING: No active camera has been assigned, or is not in a currently enabled collection
 	processing begun of mesh:  VenorsHalls
 		processing begun of material:  CeilingShadowMat
-			processing texture CeilingBakeNormal
+			processing texture CeilingBakeNormalCopy
 				texture type:  bumpTexture, mapped using: "Joined3"
 			processing texture CeilingBakeShadow
 				texture type:  diffuseTexture, mapped using: "Joined3"
-		num positions      :  1763
-		num normals        :  1763
+		num positions      :  1761
+		num normals        :  1761
 		num tangents       :  0
-		num uvs            :  3526
+		num uvs            :  3522
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  764
@@ -230,13 +230,13 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 				texture type:  bumpTexture, mapped using: "Joined2"
 			processing texture VendorsHallsBakeShadow2
 				texture type:  diffuseTexture, mapped using: "Joined2"
-		num positions      :  2143
-		num normals        :  2143
+		num positions      :  2285
+		num normals        :  2285
 		num tangents       :  0
-		num uvs            :  4286
+		num uvs            :  4570
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  1114
+		num triangles      :  1184
 		WARNING: # of 0 area faces found:  10
 	processing begun of mesh:  IcoLamp.004
 		processing begun of material:  LampBeamMat
@@ -690,7 +690,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  230
 	processing begun of mesh:  WallCross
 		animation processing begun
-			processing action WallCrossAction:  in[1 - 100], out[0 - 100]
+			processing action WallCrossAction:  in[1 - 200], out[0 - 200]
 		processing begun of material:  HallsBakeShadowMat
 		registered as also a user of material:  HallsBakeShadowMat
 		num positions      :  119
@@ -702,7 +702,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  48
 	processing begun of mesh:  WallCrossCenter
 		animation processing begun
-			processing action WallCrossCenterAction:  in[1 - 100], out[0 - 100]
+			processing action WallCrossCenterAction:  in[1 - 200], out[0 - 200]
 		processing begun of material:  HallsBakeShadowMat
 		registered as also a user of material:  HallsBakeShadowMat
 		num positions      :  86
@@ -714,7 +714,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  36
 	processing begun of mesh:  FinalDoorRiser
 		animation processing begun
-			processing action Doorframe1.011Action:  in[1 - 200], out[0 - 200]
+			processing action Doorframe1.011Action:  in[0 - 200], out[0 - 200]
 		processing begun of material:  DoorframeMat
 		processing begun of material:  DiamondMat
 		registered as also a user of material:  DoorframeMat
@@ -729,7 +729,7 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num triangles      :  200
 	processing begun of mesh:  FinalDoor
 		animation processing begun
-			processing action FinalDoorAction:  in[1 - 200], out[0 - 200]
+			processing action FinalDoorAction:  in[0 - 200], out[0 - 200]
 		processing begun of material:  HallsBakeShadowMat
 		registered as also a user of material:  HallsBakeShadowMat
 		num positions      :  118
@@ -744,17 +744,17 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 			processing action WallCrossPedestalAction:  in[0 - 200], out[0 - 200]
 		processing begun of material:  HallsBakeShadowMat
 		registered as also a user of material:  HallsBakeShadowMat
-		num positions      :  676
-		num normals        :  676
+		num positions      :  710
+		num normals        :  710
 		num tangents       :  0
-		num uvs            :  1352
+		num uvs            :  1420
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  272
-		WARNING: # of 0 area faces found:  24
+		num triangles      :  280
+		WARNING: # of 0 area faces found:  22
 	processing begun of mesh:  FinalDoorKey
 		animation processing begun
-			processing action FinalDoorKeyAction:  in[1 - 200], out[0 - 200]
+			processing action FinalDoorKeyAction:  in[0 - 200], out[0 - 200]
 		processing begun of material:  DoorframeMat
 		processing begun of material:  DiamondMat
 		registered as also a user of material:  DoorframeMat
@@ -768,15 +768,260 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		num colors         :  0
 		num triangles      :  28
 	processing begun of mesh:  VenorsHallsStructure
+		animation processing begun
+			processing action VenorsHallsStructureAction:  in[0 - 200], out[0 - 200]
 		processing begun of material:  CeilingShadowMat
 		registered as also a user of material:  CeilingShadowMat
-		num positions      :  1310
-		num normals        :  1310
+		num positions      :  1405
+		num normals        :  1405
 		num tangents       :  0
-		num uvs            :  2620
+		num uvs            :  2810
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  676
+		num triangles      :  724
+	processing begun of mesh:  TouchTheDiamond
+		processing begun of material:  CeilingShadowMat
+		registered as also a user of material:  CeilingShadowMat
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  VenorsHallsStructure2
+		animation processing begun
+			processing action VenorsHallsStructure2Action:  in[0 - 240], out[0 - 240]
+		processing begun of material:  CeilingShadowMat
+		registered as also a user of material:  CeilingShadowMat
+		num positions      :  59
+		num normals        :  59
+		num tangents       :  0
+		num uvs            :  118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  26
+	processing begun of mesh:  WallCrossFrameMachine
+		animation processing begun
+			processing action WallCrossFrameMachineAction:  in[0 - 100], out[0 - 100]
+		processing begun of material:  DoorframeMat
+		processing begun of material:  AsunderMat
+		registered as also a user of material:  DoorframeMat
+			processing texture AsunderWords
+				texture type:  diffuseTexture, mapped using: "Joined2"
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#26
+		num positions      :  3030
+		num normals        :  3030
+		num tangents       :  0
+		num uvs            :  6060
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1388
+	processing begun of mesh:  WallCrossPaddle1
+		animation processing begun
+			processing action CubeAction:  in[0 - 1], out[0 - 1]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  83
+		num normals        :  83
+		num tangents       :  0
+		num uvs            :  166
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  WallCrossPaddle2
+		animation processing begun
+			processing action CubeAction.002:  in[0 - 1], out[0 - 1]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  83
+		num normals        :  83
+		num tangents       :  0
+		num uvs            :  166
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  WallCrossPaddle3
+		animation processing begun
+			processing action CubeAction.004:  in[0 - 1], out[0 - 1]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  83
+		num normals        :  83
+		num tangents       :  0
+		num uvs            :  166
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  WallCrossPaddle4
+		animation processing begun
+			processing action CubeAction.006:  in[0 - 1], out[0 - 1]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  83
+		num normals        :  83
+		num tangents       :  0
+		num uvs            :  166
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  WallCrossPaddle5
+		animation processing begun
+			processing action CubeAction.008:  in[0 - 1], out[0 - 1]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  83
+		num normals        :  83
+		num tangents       :  0
+		num uvs            :  166
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  WallCrossPaddle6
+		animation processing begun
+			processing action CubeAction.010:  in[0 - 1], out[0 - 1]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  83
+		num normals        :  83
+		num tangents       :  0
+		num uvs            :  166
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  WallCrossPaddle7
+		animation processing begun
+			processing action CubeAction.012:  in[0 - 1], out[0 - 1]
+		processing begun of material:  DoorframeMat
+		registered as also a user of material:  DoorframeMat
+		num positions      :  83
+		num normals        :  83
+		num tangents       :  0
+		num uvs            :  166
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  AsunderA
+		processing begun of material:  DoorframeMat
+		processing begun of material:  AsunderMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  AsunderMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#27
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  AsunderS
+		processing begun of material:  DoorframeMat
+		processing begun of material:  AsunderMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  AsunderMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#28
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  AsunderU
+		processing begun of material:  DoorframeMat
+		processing begun of material:  AsunderMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  AsunderMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#29
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  AsunderN
+		processing begun of material:  DoorframeMat
+		processing begun of material:  AsunderMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  AsunderMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#30
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  AsunderD
+		processing begun of material:  DoorframeMat
+		processing begun of material:  AsunderMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  AsunderMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#31
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  AsunderE
+		processing begun of material:  DoorframeMat
+		processing begun of material:  AsunderMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  AsunderMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#32
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  AsunderR
+		processing begun of material:  DoorframeMat
+		processing begun of material:  AsunderMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  AsunderMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#33
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  AsunderCorrect
+		animation processing begun
+			processing action AsunderCorrectAction:  in[0 - 0], out[0 - 0]
+		processing begun of material:  DoorframeMat
+		processing begun of material:  AsunderMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  AsunderMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#34
+		num positions      :  6
+		num normals        :  6
+		num tangents       :  0
+		num uvs            :  12
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
+	processing begun of mesh:  AsunderWrong
+		animation processing begun
+			processing action AsunderCorrectAction.002:  in[0 - 0], out[0 - 0]
+		processing begun of material:  DoorframeMat
+		processing begun of material:  AsunderMat
+		registered as also a user of material:  DoorframeMat
+		registered as also a user of material:  AsunderMat
+		processing begun of multimaterial:  VendorsHalls.Multimaterial#35
+		num positions      :  9
+		num normals        :  9
+		num tangents       :  0
+		num uvs            :  18
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
 	processing begun of light (POINT):  Light
 	processing begun of light (POINT):  Light.001
 	processing begun of light (POINT):  Light.002
@@ -841,6 +1086,25 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 	writing mesh:  WallCrossPedestal
 	writing mesh:  FinalDoorKey
 	writing mesh:  VenorsHallsStructure
+	writing mesh:  TouchTheDiamond
+	writing mesh:  VenorsHallsStructure2
+	writing mesh:  WallCrossFrameMachine
+	writing mesh:  WallCrossPaddle1
+	writing mesh:  WallCrossPaddle2
+	writing mesh:  WallCrossPaddle3
+	writing mesh:  WallCrossPaddle4
+	writing mesh:  WallCrossPaddle5
+	writing mesh:  WallCrossPaddle6
+	writing mesh:  WallCrossPaddle7
+	writing mesh:  AsunderA
+	writing mesh:  AsunderS
+	writing mesh:  AsunderU
+	writing mesh:  AsunderN
+	writing mesh:  AsunderD
+	writing mesh:  AsunderE
+	writing mesh:  AsunderR
+	writing mesh:  AsunderCorrect
+	writing mesh:  AsunderWrong
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 4.998 secs
+elapsed time:  0 min, 3.7679 secs
